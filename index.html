@@ -3,121 +3,116 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Inventario de Repuestos</title>
+    <meta name="theme-color" content="#4F81BD">
     <link rel="manifest" href="manifest.json">
+    <title>Inventario de Repuestos</title>
     <style>
-    body { font-family: Arial, sans-serif; margin: 20px; }
-    input { margin-bottom: 10px; padding: 5px; width: 100%; }
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        input { margin-bottom: 10px; padding: 5px; width: 100%; }
 
-    table {
-        width: 100%;
-        border-collapse: collapse;
-        font-size: 14px;
-    }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+        }
 
-    thead {
-        background-color: #4F81BD;
-        color: white;
-    }
+        thead {
+            background-color: #4F81BD;
+            color: white;
+        }
 
-    th, td {
-        border: 1px solid #d9d9d9;
-        padding: 8px;
-        text-align: left;
-    }
+        th, td {
+            border: 1px solid #d9d9d9;
+            padding: 8px;
+            text-align: left;
+        }
 
-    tbody tr:nth-child(even) {
-        background-color: #f2f2f2;
-    }
+        tbody tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
 
-    tbody tr:hover {
-        background-color: #ddeeff;
-    }
+        tbody tr:hover {
+            background-color: #ddeeff;
+        }
 
-    .agotado {
-        background-color: #f8d7da !important;
-    }
+        .agotado {
+            background-color: #f8d7da !important;
+        }
 
-    .bajo-stock {
-        background-color: #fff3cd !important;
-    }
+        .bajo-stock {
+            background-color: #fff3cd !important;
+        }
 
-    .normal {
-        background-color: #d4edda !important;
-    }
-</style>
-
+        .normal {
+            background-color: #d4edda !important;
+        }
+    </style>
 </head>
 <body>
-    <h1>Inventario de Repuestos</h1>
-    <input type="text" id="buscar" placeholder="Buscar código o producto...">
-    <table>
-        <thead>
-            <tr>
-                <th onclick="ordenar('codigo')">Código</th>
-                <th onclick="ordenar('producto')">Producto</th>
-                <th onclick="ordenar('existencia')">Existencia</th>
-                <th onclick="ordenar('costo')">Costo ($)</th>
-                <th onclick="ordenar('pvp')">PVP ($)</th>
-            </tr>
-        </thead>
-        <tbody id="tablaInventario"></tbody>
-    </table>
 
-    <script>
-        let inventario = [];
-        let ordenActual = { campo: '', ascendente: true };
+<h2>Inventario de Repuestos</h2>
 
-        fetch('inventario.json')
-            .then(response => response.json())
-            .then(data => {
-                inventario = data;
-                mostrarInventario(data);
-            });
+<input type="text" id="buscador" oninput="filtrarInventario()" placeholder="Buscar por código o producto">
 
-        function mostrarInventario(lista) {
-            const tbody = document.getElementById('tablaInventario');
-            tbody.innerHTML = '';
-            lista.forEach(item => {
-                let clase = '';
-                if (item.existencia == 0) clase = 'agotado';
-                else if (item.existencia > 0 && item.existencia < 5) clase = 'bajo-stock';
+<table>
+    <thead>
+        <tr>
+            <th>Código</th>
+            <th>Producto</th>
+            <th>Existencia</th>
+            <th>Costo ($)</th>
+            <th>PVP ($)</th>
+        </tr>
+    </thead>
+    <tbody id="tabla-inventario"></tbody>
+</table>
 
-                tbody.innerHTML += `<tr class="${clase}">
+<script>
+    let inventario = [];
+
+    fetch('inventario.json')
+        .then(response => response.json())
+        .then(data => {
+            inventario = data;
+            mostrarInventario(inventario);
+        });
+
+    function mostrarInventario(lista) {
+        const tabla = document.getElementById('tabla-inventario');
+        tabla.innerHTML = '';
+        lista.forEach(item => {
+            let clase = '';
+            if (item.existencia == 0) clase = 'agotado';
+            else if (item.existencia > 0 && item.existencia < 5) clase = 'bajo-stock';
+            else clase = 'normal';
+
+            tabla.innerHTML += `
+                <tr class="${clase}">
                     <td>${item.codigo}</td>
                     <td>${item.producto}</td>
                     <td>${item.existencia}</td>
                     <td>${item.costo}</td>
                     <td>${item.pvp}</td>
-                </tr>`;
-            });
-        }
-
-        document.getElementById('buscar').addEventListener('input', function() {
-            const filtro = this.value.toLowerCase();
-            const filtrados = inventario.filter(item =>
-                item.codigo.toLowerCase().includes(filtro) ||
-                item.producto.toLowerCase().includes(filtro));
-            mostrarInventario(filtrados);
+                </tr>
+            `;
         });
+    }
 
-        function ordenar(campo) {
-            if (ordenActual.campo === campo) ordenActual.ascendente = !ordenActual.ascendente;
-            else ordenActual = { campo: campo, ascendente: true };
+    function filtrarInventario() {
+        const texto = document.getElementById('buscador').value.toLowerCase();
+        const filtrado = inventario.filter(item => 
+            item.codigo.toLowerCase().includes(texto) ||
+            item.producto.toLowerCase().includes(texto)
+        );
+        mostrarInventario(filtrado);
+    }
+</script>
 
-            inventario.sort((a, b) => {
-                if (a[campo] < b[campo]) return ordenActual.ascendente ? -1 : 1;
-                if (a[campo] > b[campo]) return ordenActual.ascendente ? 1 : -1;
-                return 0;
-            });
-            mostrarInventario(inventario);
-        }
-    </script>
+<script>
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('service-worker.js');
+    }
+</script>
 
-    <script>
-        if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('service-worker.js');
-        }
-    </script>
 </body>
 </html>
