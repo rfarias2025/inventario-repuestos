@@ -2,5845 +2,5845 @@
   {
     "codigo":"253802E250KAZE",
     "producto":"ABANICO\/ELECTROVENTILADOR RAD TUCS,SPORT",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":61.88,
     "pvp":130
   },
   {
     "codigo":"333501TRM",
     "producto":"AMORT HYUNDAI ELANTRA TRAS LH",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":32.7,
     "pvp":56
   },
   {
     "codigo":"333500TRM",
     "producto":"AMORT HYUNDAI ELANTRA TRAS RH",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":32.7,
     "pvp":56
   },
   {
     "codigo":"333206TRM",
     "producto":"AMORT HYUNDAI ELANTRA XD 01\/13 DEL LH",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":40.8,
     "pvp":70
   },
   {
     "codigo":"333205TRM",
     "producto":"AMORT HYUNDAI ELANTRA XD 01\/13 DEL RH",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":40.8,
     "pvp":70
   },
   {
     "codigo":"343398TRM",
     "producto":"AMORT HYUNDAI GETZ 06\/12 TRAS RH\/LH",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":19.8,
     "pvp":45
   },
   {
     "codigo":"334503TRM",
     "producto":"AMORT HYUNDAI TUCSON 05\/15 DEL LH",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":36.88,
     "pvp":63
   },
   {
     "codigo":"334502TRM",
     "producto":"AMORT HYUNDAI TUCSON 05\/15 DEL RH",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":36.88,
     "pvp":63
   },
   {
     "codigo":"334505LTRM",
     "producto":"AMORT HYUNDAI TUCSON 05\/16 TRAS LH",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":48.75,
     "pvp":83
   },
   {
     "codigo":"334504RTRM",
     "producto":"AMORT HYUNDAI TUCSON 05\/16 TRAS RH",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":48.75,
     "pvp":83
   },
   {
     "codigo":"341247TRM",
     "producto":"AMORT KIA PREGIO DEL RH\/LH",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":29.58,
     "pvp":51
   },
   {
     "codigo":"333506KYB",
     "producto":"AMORTIGUADOR DEL DERECHO HYUNDAI GETZ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":32.88,
     "pvp":56
   },
   {
     "codigo":"333507KYB",
     "producto":"AMORTIGUADOR DEL IZQUIERDO HYUNDAI GETZ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":32.88,
     "pvp":56
   },
   {
     "codigo":"334506PERFECT",
     "producto":"AMORTIGUADOR DEL. SANTA FE 2.7 06-10 DER",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":33.38,
     "pvp":65
   },
   {
     "codigo":"334507PERFECT",
     "producto":"AMORTIGUADOR DEL. SANTA FE 2.7 06-10 IZQ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":33.38,
     "pvp":65
   },
   {
     "codigo":"333502KAPARS",
     "producto":"AMORTIGUADOR KIA RIO (00-02) DEL. DER.",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":31.73,
     "pvp":54
   },
   {
     "codigo":"333503KAPARS",
     "producto":"AMORTIGUADOR KIA RIO (00-02) DEL. IZQ.",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":31.73,
     "pvp":54
   },
   {
     "codigo":"72297EDS",
     "producto":"AMORTIGUADOR KIA RIO CVVT 05-11 DELANTER",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":28.98,
     "pvp":50
   },
   {
     "codigo":"72298EDS",
     "producto":"AMORTIGUADOR KIA RIO CVVT 05-11 DELANTER",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":28.98,
     "pvp":50
   },
   {
     "codigo":"T333512THOM",
     "producto":"AMORTIGUADOR KIA RIO STYLUS 2005 DEL\/DER",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":28.0,
     "pvp":50
   },
   {
     "codigo":"T333513THOM",
     "producto":"AMORTIGUADOR KIA RIO STYLUS 2005 DEL\/IZQ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":28.0,
     "pvp":50
   },
   {
     "codigo":"T343424THOM",
     "producto":"AMORTIGUADOR KIA RIO STYLUS 2005 TRASERO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":24.0,
     "pvp":45
   },
   {
     "codigo":"5536022902PERFE",
     "producto":"AMORTIGUADOR TRAS ACCENT 96\/05 LH",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":32.61,
     "pvp":56
   },
   {
     "codigo":"553102P300MHW",
     "producto":"AMORTIGUADOR TRAS SANTA FE DER,IZQ",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":26.1,
     "pvp":55
   },
   {
     "codigo":"5535022902PERFE",
     "producto":"AMORTIGUADOR TRAS.ACCENT 96\/05 RH",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":32.61,
     "pvp":56
   },
   {
     "codigo":"40765050RIK",
     "producto":"ANILLO ACCENT 1.5 0.50 (020)",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":15.47,
     "pvp":30
   },
   {
     "codigo":"40765075RIK",
     "producto":"ANILLO ACCENT 1.5 0.75",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":16.26,
     "pvp":30
   },
   {
     "codigo":"SWG30017ZX010RI",
     "producto":"ANILLO ACCENT BRISA 1.5 (010) (1.5X1.5X3",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":17.62,
     "pvp":30
   },
   {
     "codigo":"40770075RIK",
     "producto":"ANILLO ACCENT GETZ BRISA1.3 (030) (1.5X1",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":16.31,
     "pvp":30
   },
   {
     "codigo":"2304022300040MO",
     "producto":"ANILLO ACCENT GETZ BRISA1.3 (040) (1.5X1",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":25.63,
     "pvp":44
   },
   {
     "codigo":"SWK30019ZZ100AM",
     "producto":"ANILLO DE MOTOR 1.00 KIA RIO 1.5 TODOS",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":12.75,
     "pvp":30
   },
   {
     "codigo":"2304023300HYUN",
     "producto":"ANILLO FINO ELANTRA 2.0 LTS \/ TUCSON 2.0",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":15.17,
     "pvp":30
   },
   {
     "codigo":"40082STDRIK",
     "producto":"ANILLO GETZ\/ELANTRA 1.6 ARO FINO-STD",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":18.94,
     "pvp":33
   },
   {
     "codigo":"2304022350050HK",
     "producto":"ANILLO HYUNDAI ACCENT 1.3 - 0.20",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":7.2,
     "pvp":30
   },
   {
     "codigo":"SWG300380ZZ100N",
     "producto":"ANILLO KIA PICANTO ATOS (040) (1.2X1.2X2",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":18.25,
     "pvp":32
   },
   {
     "codigo":"2C4782020HASTIN",
     "producto":"ANILLO MOTOR HYUNDAI ACCENT 1.5 +0.50=0.",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":18.27,
     "pvp":32
   },
   {
     "codigo":"2C4782030HASTIN",
     "producto":"ANILLO MOTOR HYUNDAI ACCENT 1.5 +0.75=0.",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":18.27,
     "pvp":32
   },
   {
     "codigo":"2C4782040HASTIN",
     "producto":"ANILLO MOTOR HYUNDAI ACCENT 1.5 +1.00=0.",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":18.27,
     "pvp":32
   },
   {
     "codigo":"SWG30038ZZNPR",
     "producto":"ANILLO MOTOR KIA PICANTO +1.00=0.40",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":18.53,
     "pvp":32
   },
   {
     "codigo":"0K3Y011SC0010NP",
     "producto":"ANILLO PARA MOTOR KIA RIO STYLUS 1.5 010",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":13.78,
     "pvp":24
   },
   {
     "codigo":"0K3Y011SC0020NP",
     "producto":"ANILLO PARA MOTOR KIA RIO STYLUS 1.5 020",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":13.78,
     "pvp":24
   },
   {
     "codigo":"2304023300050NP",
     "producto":"ANILLO TUCSON 04-09 SPORTAGE 04-10 ELANT",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":20.15,
     "pvp":40
   },
   {
     "codigo":"86121220HDTRD",
     "producto":"ANILLOS  ANILLOS NEW CAREN TUCSON 2016 C",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":17.11,
     "pvp":30
   },
   {
     "codigo":"OK3Y211SCOMAZ",
     "producto":"ANILLOS DE MOTOR STD KIA RIO STYLUS 1,5",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":17.84,
     "pvp":31
   },
   {
     "codigo":"2304023304HYUND",
     "producto":"ANILLOS HYI TUCSON\/ELANTRA 2.0 0.40\/1.00",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":20.77,
     "pvp":40
   },
   {
     "codigo":"2304023303HYUND",
     "producto":"ANILLOS HYUN TUCSON\/ELANTRA 2.0 0,30\/075",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":20.77,
     "pvp":40
   },
   {
     "codigo":"2304023302HYUND",
     "producto":"ANILLOS HYUNDAI TUCSON\/ELANTRA 2.0 0,20\/",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":20.77,
     "pvp":40
   },
   {
     "codigo":"SWG30017ZXSTD",
     "producto":"ANILLOS MOTOR HYUNDAI ACCENT STD",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":10.38,
     "pvp":30
   },
   {
     "codigo":"SWG30016ZZNPR",
     "producto":"ANILLOS MOTOR HYUNDAI ACCENT\/ GETZ \/ STD",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":10.38,
     "pvp":30
   },
   {
     "codigo":"SWG30016ZZNPR0.",
     "producto":"ANILLOS MOTOR HYUNDAI ACCENT\/GETZ 0.75",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":10.38,
     "pvp":30
   },
   {
     "codigo":"2C5184030HASTIN",
     "producto":"ANILLOS MOTOR RIO STYLUS 1.5 075=030",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":10.58,
     "pvp":30
   },
   {
     "codigo":"SWG30034ZZSTDNP",
     "producto":"ANILLOS MOTOR STD HYUNDAI GETZ \/ ELANTRA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":10.38,
     "pvp":30
   },
   {
     "codigo":"2304022010SMOB",
     "producto":"ANILLOS PARA MOTOR HYUNDAI ACCENT 1.5 ST",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":13.8,
     "pvp":30
   },
   {
     "codigo":"S5402030EDS",
     "producto":"ANILLOS TUCSON,ELANT, KIA SPORT 030 FINO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":13.76,
     "pvp":30
   },
   {
     "codigo":"3610002800MOT",
     "producto":"ARRANQUE HYUNDAI GETZ 1.3, ACCENT, PICAN",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":62.81,
     "pvp":120
   },
   {
     "codigo":"XL2B100GPC",
     "producto":"AUTOMATICO ARRANQUE HYUNDAI GETZ, TUCSON",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":13.48,
     "pvp":30
   },
   {
     "codigo":"361202A100CORKI",
     "producto":"AUTOMATICO HYNDAI KIA  2 TORNILLOS",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":19.75,
     "pvp":34
   },
   {
     "codigo":"2103023000075TA",
     "producto":"AXIAL SEPARADOR CIGÜEÑAL 0.75TUCSON ELAN",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":3.17,
     "pvp":15
   },
   {
     "codigo":"2103023000050TA",
     "producto":"AXIAL SEPARADOR CIGÜEÑAL TUCSON,ELAN0.50",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":2.55,
     "pvp":15
   },
   {
     "codigo":"2103002501FANZ",
     "producto":"AXIALES STD PICANTO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.15,
     "pvp":15
   },
   {
     "codigo":"2455122020KAP",
     "producto":"BALANCIN DE ADMISION HYUNDAI ACCENT 1.3\/",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":6.5,
     "pvp":12
   },
   {
     "codigo":"2455222020KAP",
     "producto":"BALANCIN DE ESCAPE HYUNDAI ACCENT (98-05",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":6.5,
     "pvp":12
   },
   {
     "codigo":"488200D030USA",
     "producto":"BARRA ESTABILIZADORA DEL. IZQ\/DER TOYOTA",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":5.92,
     "pvp":15
   },
   {
     "codigo":"48820AD010USA",
     "producto":"BARRA ESTABILIZADORA DEL. IZQ\/DER TOYOTA",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.8,
     "pvp":15
   },
   {
     "codigo":"546102D000HYUND",
     "producto":"BASE AMORT. DEL HYUNDAI ELANTRA (UNIDAD)",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":11.19,
     "pvp":20
   },
   {
     "codigo":"5461025000HYUND",
     "producto":"BASE AMORTIGUADOR DELANTERA HYUNDAI GETZ",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":10.97,
     "pvp":20
   },
   {
     "codigo":"5461107000FANZ",
     "producto":"BASE AMORTIGUADOR DELANTERO PICANTO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":9.84,
     "pvp":20
   },
   {
     "codigo":"546102E000CAP",
     "producto":"BASE AMORTIGUADOR DELT TUCSON ** NUEVO *",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":11.02,
     "pvp":20
   },
   {
     "codigo":"546102B100",
     "producto":"BASE AMORTIGUADOR SANTA FE 2007",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":17.4,
     "pvp":30
   },
   {
     "codigo":"546303L000PM",
     "producto":"BASE AMORTIGUADOR SONATA 3.3",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":14.33,
     "pvp":30
   },
   {
     "codigo":"218302E100MOB",
     "producto":"BASE CAJA HYUNDAI TUCSON, KIA SPORTAGE 2",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":22.84,
     "pvp":50
   },
   {
     "codigo":"218302E200MOB",
     "producto":"BASE CAJA HYUNDAI TUCSON, KIA SPORTAGE 2",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":22.84,
     "pvp":50
   },
   {
     "codigo":"546102E000IMA",
     "producto":"BASE DE AMORTIGUADOR DEL TUCSON",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":12.77,
     "pvp":22
   },
   {
     "codigo":"54615FD000USA",
     "producto":"BASE DE AMORTIGUADOR DEL. DER. KIA RIO S",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":11.37,
     "pvp":20
   },
   {
     "codigo":"5461022000USA",
     "producto":"BASE DE AMORTIGUADOR DEL. HYUNDAI ACCENT",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":10.47,
     "pvp":20
   },
   {
     "codigo":"5461002000UP",
     "producto":"BASE DE AMORTIGUADOR DEL. HYUNDAI ATOS (",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.2,
     "pvp":20
   },
   {
     "codigo":"218301C270IMA",
     "producto":"BASE DE CAJA GETZ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":25.52,
     "pvp":45
   },
   {
     "codigo":"219102E100MHW",
     "producto":"BASE DE MOTOR DELANTERO HYUNDAI TUCSON 2",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":17.63,
     "pvp":50
   },
   {
     "codigo":"219302D100MHW",
     "producto":"BASE DE MOTOR TRASERA HYUNDAI ELANTRA XD",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":12.65,
     "pvp":40
   },
   {
     "codigo":"219312D150MHW",
     "producto":"BASE DE MOTOR TRASERO HYUNDAI ELANTRA 1.",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":13.96,
     "pvp":40
   },
   {
     "codigo":"219102D000CAP",
     "producto":"BASE ELANTRA XD MOTOR DELANTERO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":14.6,
     "pvp":40
   },
   {
     "codigo":"219301C130MHW",
     "producto":"BASE MOTOR -CAJA TRASERA HYUNDAI GETZ SI",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":16.31,
     "pvp":45
   },
   {
     "codigo":"219102E002KP",
     "producto":"BASE MOTOR DEL. TUCSON KP CON LOMO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":25.6,
     "pvp":50
   },
   {
     "codigo":"219102E000HYUND",
     "producto":"BASE MOTOR HYUNDAI TUCSON, KIA SPORTAGE",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":13.21,
     "pvp":50
   },
   {
     "codigo":"219302E300DKIG",
     "producto":"BASE MOTOR TUCSON SPORTAGE 2.0 05-12 AUT",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":14.92,
     "pvp":50
   },
   {
     "codigo":"219102E300DKIG",
     "producto":"BASE MOTOR TUCSON SPORTAGE 2.0 05-12DELA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":14.7,
     "pvp":50
   },
   {
     "codigo":"2193007000CAP",
     "producto":"BASE PICANTO MOTOR TRASERO TIPO HUESO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":22.24,
     "pvp":50
   },
   {
     "codigo":"219301C130KP",
     "producto":"BASE TRASERA GETZ T\/M CHUPETA SEONG",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":17.4,
     "pvp":45
   },
   {
     "codigo":"219302E100",
     "producto":"BASE TRASERA TUCSON",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":12.08,
     "pvp":50
   },
   {
     "codigo":"2546026000MORUC",
     "producto":"BASTON TUBO AGUA HYUNDAI GETZ 1.6, ELANT",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":10.03,
     "pvp":20
   },
   {
     "codigo":"10104500ZEN",
     "producto":"BENDIX HYUNDAI ACCENT, EXEL, PICANTO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.21,
     "pvp":13
   },
   {
     "codigo":"54820FD000GVD",
     "producto":"BIELETA  DELANTER PARA RIO 1,5 02-11 DER",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":4.3,
     "pvp":13
   },
   {
     "codigo":"5484007000GVD",
     "producto":"BIELETA  DELANTERA PICANTO DERECHA",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":5.92,
     "pvp":13
   },
   {
     "codigo":"5483007000GVD",
     "producto":"BIELETA  DELANTERA PICANTO IZQ",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":5.91,
     "pvp":13
   },
   {
     "codigo":"548401G500GVD",
     "producto":"BIELETA  DERECHA  ACCENT RIO CVVT",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":5.02,
     "pvp":15
   },
   {
     "codigo":"548301G500GVD",
     "producto":"BIELETA  DIZQUIERDA  ACCENT RIO CVVT",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":5.02,
     "pvp":15
   },
   {
     "codigo":"548302G000CS4",
     "producto":"BIELETA BARRA ESTABILIZADORA HYUNDAI",
-    "existencia":6.0,
+    "Existencia":6.0,
     "costo":6.64,
     "pvp":12
   },
   {
     "codigo":"548402B200TMM",
     "producto":"BIELETA DEL. DER. HYUNDAI SANTA FE. (UNI",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":11.02,
     "pvp":19
   },
   {
     "codigo":"548302B200TMM",
     "producto":"BIELETA DEL. IZQ. HYUNDAI SANTA FE. (UNI",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":11.02,
     "pvp":19
   },
   {
     "codigo":"54830FD000GVD",
     "producto":"BIELETA DELANTERA PARA RIO 1,5 02-11 IZQ",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":6.7,
     "pvp":13
   },
   {
     "codigo":"548302B000CAP",
     "producto":"BIELETA DELT SANTA FE LH",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":7.41,
     "pvp":15
   },
   {
     "codigo":"548402B000CAP",
     "producto":"BIELETA DELT SANTA FE RH",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":7.41,
     "pvp":15
   },
   {
     "codigo":"548401C000TRM",
     "producto":"BIELETA HYUNDAI GETZ LH",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":7.53,
     "pvp":13
   },
   {
     "codigo":"548301C000TRM",
     "producto":"BIELETA HYUNDAI GETZ RH",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":7.53,
     "pvp":13
   },
   {
     "codigo":"5484007000CAP",
     "producto":"BIELETA KIA PICANTO DERECHA",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":5.9,
     "pvp":13
   },
   {
     "codigo":"5483007000CAP",
     "producto":"BIELETA KIA PICANTO IZQUIERDA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":5.9,
     "pvp":13
   },
   {
     "codigo":"555302E100CAP",
     "producto":"BIELETA TRASERA TUCSON",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":6.17,
     "pvp":13
   },
   {
     "codigo":"2730122600MHW",
     "producto":"BOBINA DE ENCENDIDO HYUNDAI GETZ 1.3",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":19.03,
     "pvp":35
   },
   {
     "codigo":"2730126600MHW",
     "producto":"BOBINA DE ENCENDIDO HYUNDAI GETZ 1.6 \/ E",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":29.5,
     "pvp":51
   },
   {
     "codigo":"273013E400MHW",
     "producto":"BOBINA DE ENCENDIDO HYUNDAI SANTA FE 2 P",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":12.94,
     "pvp":25
   },
   {
     "codigo":"2730126640MHW",
     "producto":"BOBINA DE ENCENDIDO KIA RIO CVVT 1.6 ACC",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":9.79,
     "pvp":40
   },
   {
     "codigo":"2730122600HYUND",
     "producto":"BOBINA DE ENCENDIDOHYUNDAI ACCENT \/ GETZ",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":32.99,
     "pvp":57
   },
   {
     "codigo":"2730123700HYUND",
     "producto":"BOBINA DE ENCENDIDOTUCSON \/ ELAN\/SPORTAG",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":34.53,
     "pvp":59
   },
   {
     "codigo":"OK30E1810XKAPAR",
     "producto":"BOBINA DE IGNICION KIA RIO, STYLUS (01-0",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":31.73,
     "pvp":54
   },
   {
     "codigo":"OK01318100KAPAR",
     "producto":"BOBINA DE IGNICION SPORTAGE 00-03, SEPHI",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":16.5,
     "pvp":29
   },
   {
     "codigo":"273013F100MOB",
     "producto":"BOBINA HYUNDAI SANTA FE, KIA OPTIMA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":11.5,
     "pvp":25
   },
   {
     "codigo":"OK30E1810XCAP",
     "producto":"BOBINA KIA RIO 1.5",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":36.04,
     "pvp":62
   },
   {
     "codigo":"2131002550MOB",
     "producto":"BOMBA ACEITE KIA PICANTO\/ATOS 1.1",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":43.81,
     "pvp":75
   },
   {
     "codigo":"213103C300HDE",
     "producto":"BOMBA ACEITE MOTOR HYUNDAI SONATA 3.3 AZ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":75.2,
     "pvp":128
   },
   {
     "codigo":"2510002566PROMA",
     "producto":"BOMBA AGUA HYUNDAI ATOS, KIA PICANTO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":19.38,
     "pvp":33
   },
   {
     "codigo":"2510038450SEONG",
     "producto":"BOMBA AGUA HYUNDAI H1 07 SEONG",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":54.49,
     "pvp":93
   },
   {
     "codigo":"2510042541PROMA",
     "producto":"BOMBA AGUA HYUNDAI H100",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":31.82,
     "pvp":55
   },
   {
     "codigo":"251004Z000SEO",
     "producto":"BOMBA AGUA KIA PREGIO 3.0 SEONG",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":25.75,
     "pvp":45
   },
   {
     "codigo":"2510037201SEONG",
     "producto":"BOMBA AGUA KIA SPORTAGE 2.7\/ SANTA FE GO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":49.75,
     "pvp":85
   },
   {
     "codigo":"416102E005TK",
     "producto":"BOMBA CLUTCH HY SUP.TUCSON \/KIA SPORTAG",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":22.21,
     "pvp":38
   },
   {
     "codigo":"4161029000TK",
     "producto":"BOMBA CLUTCH HYUNDAI SUP. ELANTRA 95\/00",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":16.38,
     "pvp":28
   },
   {
     "codigo":"4161022060CAP",
     "producto":"BOMBA CLUTCH SUPERIOR ACCENT",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":16.18,
     "pvp":28
   },
   {
     "codigo":"416101C010NVLUK",
     "producto":"BOMBA CROCHE GETZ 1.3\/1.6",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":21.85,
     "pvp":38
   },
   {
     "codigo":"2131023001AME",
     "producto":"BOMBA DE ACEITE HYUNDAI ELANTRA XD,",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":39.69,
     "pvp":68
   },
   {
     "codigo":"2131026650AME",
     "producto":"BOMBA DE ACEITE HYUNDAI GETZ 1.6, ELANTR",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":35.0,
     "pvp":65
   },
   {
     "codigo":"OK30C14100DAME",
     "producto":"BOMBA DE ACEITE KIA RIO 1.5, STYLUS",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":39.0,
     "pvp":67
   },
   {
     "codigo":"2510026902HYUND",
     "producto":"BOMBA DE AGUA GETZ, ELANT, RIO 1.6",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":13.59,
     "pvp":24
   },
   {
     "codigo":"251003E001MHW",
     "producto":"BOMBA DE AGUA HYUNDAI SANTA FE MOTOR 2.7",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":36.3,
     "pvp":62
   },
   {
     "codigo":"OK30E15010HYUND",
     "producto":"BOMBA DE AGUA KIA RIOS STYLUS 1.5",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":22.19,
     "pvp":38
   },
   {
     "codigo":"251003C100MHW",
     "producto":"BOMBA DE AGUA KIA SORENTO V6 3.3",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":40.19,
     "pvp":69
   },
   {
     "codigo":"2510023010AME",
     "producto":"BOMBA DE AGUA TUCSON,MATRIX,SPORTAGE,CAR",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":17.06,
     "pvp":30
   },
   {
     "codigo":"571002E000HYUN",
     "producto":"BOMBA DE DIRECCION HIDRAULICA TUCSON",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":79.84,
     "pvp":136
   },
   {
     "codigo":"58510FD100AMEPA",
     "producto":"BOMBA DE FRENO KIA RIO\/STYLUS",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":31.04,
     "pvp":53
   },
   {
     "codigo":"0K72A43400GUTEN",
     "producto":"BOMBA DE FRENO PREGIO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":48.84,
     "pvp":90
   },
   {
     "codigo":"585104H000HYUND",
     "producto":"BOMBA DE FRENOS H1",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":23.2,
     "pvp":40
   },
   {
     "codigo":"5851022000TRM",
     "producto":"BOMBA FRENO HYUN ELANTRA 98\/05 7\/8 C\/ABS",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":36.19,
     "pvp":62
   },
   {
     "codigo":"5851022010ASIAI",
     "producto":"BOMBA FRENO HYUNDAI GETZ 1.3, ACCENT 585",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":32.63,
     "pvp":56
   },
   {
     "codigo":"585101C000TRM",
     "producto":"BOMBA FRENO HYUNDAI GETZ\/ELANTRA 1.6",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":47.46,
     "pvp":81
   },
   {
     "codigo":"585102E000TCT",
     "producto":"BOMBA FRENO HYUNDAI TUCSON, KIA SPORTAGE",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":35.93,
     "pvp":62
   },
   {
     "codigo":"5851007900EP",
     "producto":"BOMBA FRENO KIA PICANTO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":36.76,
     "pvp":63
   },
   {
     "codigo":"2068CLIPSE",
     "producto":"BOMBA PILA GASOLINA ELECTRICA UNIVERSAL(",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":12.87,
     "pvp":22
   },
   {
     "codigo":"OS09341920OP",
     "producto":"BOMBIN BOMBA INFERIOR CLUCTH KIA PREGIO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":6.15,
     "pvp":25
   },
   {
     "codigo":"4171028000AME",
     "producto":"BOMBIN CLUCTH INF. HYUNDAI TUCSON,",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":10.29,
     "pvp":20
   },
   {
     "codigo":"4171022600AME",
     "producto":"BOMBIN CLUTCH INF. HYUNDAI ACCENT 1.3, 1",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":10.29,
     "pvp":20
   },
   {
     "codigo":"RA416102E005",
     "producto":"BOMBIN DE CLOUCH SUPERIOR TUCSON\/KIA SPO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":15.9,
     "pvp":30
   },
   {
     "codigo":"S09341920TRM",
     "producto":"BOMBIN INF KIA PREGIO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.1,
     "pvp":25
   },
   {
     "codigo":"4171039001MHW",
     "producto":"BOMBIN INFERIOR DE CLUTCH ELANTR, TUCS,S",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":7.24,
     "pvp":20
   },
   {
     "codigo":"4171028000CAP",
     "producto":"BOMBIN INFERIOR TUCSON\/SPORTAGE\/ELANTRA",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":11.59,
     "pvp":20
   },
   {
     "codigo":"4161022060TRM",
     "producto":"BOMBIN SUP HYUNDAI ACCENT, GETZ,",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":20.17,
     "pvp":35
   },
   {
     "codigo":"S08941990TRM",
     "producto":"BOMBIN SUP KIA PREGIO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":16.86,
     "pvp":29
   },
   {
     "codigo":"4161022050MHW",
     "producto":"BOMBIN SUPERIOR DE CLUTCH HYUNDAI ACCENT",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":11.1,
     "pvp":20
   },
   {
     "codigo":"2351023700ANCOV",
     "producto":"BRAZO BIELA HYUNDAI TUCSON, KIA SPORTAGE",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":23.38,
     "pvp":40
   },
   {
     "codigo":"545511C000USA",
     "producto":"BUJE DE MESETA DEL. HYUNDAI ACCENT\/GETZ\/",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":2.12,
     "pvp":10
   },
   {
     "codigo":"545512D000USA",
     "producto":"BUJE DE MESETA DEL. HYUNDAI ELANTRA XD 0",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":4.66,
     "pvp":10
   },
   {
     "codigo":"SD39287RGP",
     "producto":"BUJE DE MESETA P\/HYUNDAI ACCENT DERECHA",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":3.11,
     "pvp":6
   },
   {
     "codigo":"OK08034840",
     "producto":"BUJE GDE. DE MESETA INF. DEL. KIA PREGIO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":2.75,
     "pvp":10
   },
   {
     "codigo":"5455102000CAP",
     "producto":"BUJE MESETA ACCENT PEQUEÑO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.51,
     "pvp":8
   },
   {
     "codigo":5455125000,
     "producto":"BUJE MESETA DELANTERO PEQUEÑO GETZ VERNA",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":1.73,
     "pvp":8
   },
   {
     "codigo":"5455522000CAP",
     "producto":"BUJE MESETA DELT ACCENT GRANDE LH",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.77,
     "pvp":10
   },
   {
     "codigo":"5455622000CAP",
     "producto":"BUJE MESETA DELT ACCENT GRANDE RH",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":4.77,
     "pvp":10
   },
   {
     "codigo":"5458417000MOB",
     "producto":"BUJE MESETA GRANDE  ELANTRA XD",
-    "existencia":10.0,
+    "Existencia":10.0,
     "costo":4.14,
     "pvp":10
   },
   {
     "codigo":"545512G000CARDE",
     "producto":"BUJE MESETA PEQUENO TUCSON 2G000",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":2.66,
     "pvp":8
   },
   {
     "codigo":"5455125000CVHYU",
     "producto":"BUJE MESETA PEQUEÑO ACCENT GETZ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":4.41,
     "pvp":8
   },
   {
     "codigo":"5455102000AME",
     "producto":"BUJE PEQ DE MESETA INF DEL. HYUNDAI ACCE",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":2.49,
     "pvp":5
   },
   {
     "codigo":"9091901191DENSO",
     "producto":"BUJIA SK20HR11 IRIDIUM SANTA FE. KIA OPT",
-    "existencia":18.0,
+    "Existencia":18.0,
     "costo":2.5,
     "pvp":5
   },
   {
     "codigo":"OK2A318180AWEIL",
     "producto":"CABLES BUJIA SHEPIA (2 CABLES)",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.64,
     "pvp":15
   },
   {
     "codigo":"2750123B70HYU",
     "producto":"CABLES BUJIAS HY TUCSON, ELAN 2.0",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":11.88,
     "pvp":21
   },
   {
     "codigo":"2750137A00MOB",
     "producto":"CABLES BUJÍAS SANTA FE \/ SPORTAG 2.7",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":13.65,
     "pvp":30
   },
   {
     "codigo":"2432126701APK",
     "producto":"CADENA DE LEVA RIO CVVT\/ACCENT CVVT 1,6",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":13.1,
     "pvp":23
   },
   {
     "codigo":"243123C100APK",
     "producto":"CADENA DE TIEMPO KIA SEDONA 08, HYUNDAI",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":38.8,
     "pvp":66
   },
   {
     "codigo":"2432137100K",
     "producto":"CADENA LEVA KIA SPORTAGE 2.7",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":10.97,
     "pvp":25
   },
   {
     "codigo":"2432123770GPI",
     "producto":"CADENA LEVA TUCSON 2.0",
-    "existencia":6.0,
+    "Existencia":6.0,
     "costo":4.68,
     "pvp":15
   },
   {
     "codigo":"565001E700HYUND",
     "producto":"CAJETIN DE DIRECCION MECANICO ACCENT 06-",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":63.88,
     "pvp":109
   },
   {
     "codigo":"577002E800HYUND",
     "producto":"CAJETIN DE DIRECCIÓN TUCSON",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":168.53,
     "pvp":287
   },
   {
     "codigo":"9475037100KJC",
     "producto":"CAPSULA PRESION ACEITE  PICANTO\/SPOR",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":7.27,
     "pvp":15
   },
   {
     "codigo":"361692A000CORKI",
     "producto":"CARBONERA DE ARRANQUE ACCENT",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":5.95,
     "pvp":20
   },
   {
     "codigo":"2562026160RAON",
     "producto":"CARCAZA TERMOSTATO GETZ LARGA KOREA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":22.45,
     "pvp":50
   },
   {
     "codigo":"491304A400KOREA",
     "producto":"CHUMACERA - SOPORTE CARDAN H1 2.4  2006",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":36.39,
     "pvp":62
   },
   {
     "codigo":"5833022000MHW",
     "producto":"CILINDRO DE FRENO TRAS IZQ ACCE,ELANTRA",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":6.77,
     "pvp":15
   },
   {
     "codigo":"RA5838002000",
     "producto":"CILINDRO FRENO ACC\/IZQUIEDO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":7.85,
     "pvp":15
   },
   {
     "codigo":"WC128199BRAKEP",
     "producto":"CILINDRO FRENO GETZ, ACCENT, ELAN IZQ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":12.68,
     "pvp":22
   },
   {
     "codigo":"WC128200BRAKEP",
     "producto":"CILINDRO FRENO GETZ, ACCENT, ELANT DEREC",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":12.68,
     "pvp":22
   },
   {
     "codigo":"5833022000TCIC",
     "producto":"CILINDRO FRENO HY GETZ,ACCETN,ELANTR IZQ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":7.89,
     "pvp":15
   },
   {
     "codigo":"4142128000KBC",
     "producto":"COLLARIN ACCENT",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":8.28,
     "pvp":15
   },
   {
     "codigo":"RA4142139000",
     "producto":"COLLARIN ELANTRA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":10.59,
     "pvp":20
   },
   {
     "codigo":"4141249670KOREA",
     "producto":"COLLARIN EMBRAGUE H1 2.4  2006\/2009\/H100",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":21.83,
     "pvp":38
   },
   {
     "codigo":"4142139275VAL",
     "producto":"COLLARIN HYUNDAI TUCSON, KIA SPORTAGE 2.",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":6.76,
     "pvp":20
   },
   {
     "codigo":"4142128000MMIT",
     "producto":"COLLARIN\/HY ACCENT GETZ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":7.29,
     "pvp":15
   },
   {
     "codigo":"4142136000MMIT",
     "producto":"COLLARIN\/HY EXCEL",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":9.01,
     "pvp":16
   },
   {
     "codigo":"2102022541GMP",
     "producto":"CONCHA BANCADA  GETZ 1.6, ELANTRA1.6 STD",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":12.29,
     "pvp":21
   },
   {
     "codigo":"KKIYO11SGOSTDTA",
     "producto":"CONCHA BANCADA  MAZDA  RIO 1.3 1.5 STD",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.99,
     "pvp":20
   },
   {
     "codigo":"21020239041MOB",
     "producto":"CONCHA BANCADA 1.00 ACCENT\/GETZ\/ELANTRA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":7.23,
     "pvp":20
   },
   {
     "codigo":"2102002600025HY",
     "producto":"CONCHA BANCADA ATOS 1.0 PICANTO 1.1 0.25",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.72,
     "pvp":20
   },
   {
     "codigo":"2102002600STDHY",
     "producto":"CONCHA BANCADA ATOS 1.0 PICANTO 1.1 STD",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.72,
     "pvp":20
   },
   {
     "codigo":"M119A020TAIHO",
     "producto":"CONCHA BANCADA EXCEL\/LANCER 1.3 1.5",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":9.0,
     "pvp":20
   },
   {
     "codigo":"2102023902GMP",
     "producto":"CONCHA BANCADA HY TUCSON 2.0, ELAN 2.0+0",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":12.37,
     "pvp":22
   },
   {
     "codigo":"KKIYO11SHY075TA",
     "producto":"CONCHA BANCADA MAZDA RIO 1.3 1.5 0.75",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":8.99,
     "pvp":20
   },
   {
     "codigo":"2102025110GMP",
     "producto":"CONCHA BANCADA NEW CARENS\/OPTIMA\/H1 025-",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":26.2,
     "pvp":45
   },
   {
     "codigo":"2102025120GMP",
     "producto":"CONCHA BANCADA NEW CARENS\/OPTIMA\/H1 050-",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":26.2,
     "pvp":45
   },
   {
     "codigo":"2102025100DONG",
     "producto":"CONCHA BANCADA NEW CARENS\/OPTIMA\/H1 STDC",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":26.2,
     "pvp":45
   },
   {
     "codigo":"2102037922GMP",
     "producto":"CONCHA BANCADA SANTA F,SPORTA 2,7\/0.50",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":26.2,
     "pvp":45
   },
   {
     "codigo":"2102037921GMP",
     "producto":"CONCHA BANCADA SANTA F,SPORTA 2.7\/0.25",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":26.2,
     "pvp":45
   },
   {
     "codigo":"2102037220GMP",
     "producto":"CONCHA BANCADA SANTA FE SPORT2,7\/OPT STD",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":29.11,
     "pvp":50
   },
   {
     "codigo":"2102023140SMOB",
     "producto":"CONCHA BANCADA STD 10\/10 ELANTRA 2.0\/TUC",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":7.23,
     "pvp":20
   },
   {
     "codigo":"OK3Y011SE0025HY",
     "producto":"CONCHA BIELA  RIO 1.3 1.5 0.25-010",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.75,
     "pvp":15
   },
   {
     "codigo":"OK3Y011SE0STD",
     "producto":"CONCHA BIELA  RIO 1.3 1.5 STD",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.75,
     "pvp":15
   },
   {
     "codigo":"2306026040HYUND",
     "producto":"CONCHA BIELA ACCENT\/BRISA\/GETZ1.3 1.6\/EL",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.72,
     "pvp":15
   },
   {
     "codigo":"2306021902075M",
     "producto":"CONCHA BIELA EXCEL\/LANCER 1.3-1.5",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":4.71,
     "pvp":15
   },
   {
     "codigo":"2306021902025ND",
     "producto":"CONCHA BIELA EXCEL\/LANCER 1.3-1.5 0.25",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":5.86,
     "pvp":15
   },
   {
     "codigo":"2306021902050TA",
     "producto":"CONCHA BIELA EXCEL\/LANCER 1.3-1.5 0.50",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":5.88,
     "pvp":15
   },
   {
     "codigo":"2306022540HYUN",
     "producto":"CONCHA BIELA GETZ (030) BRISA ACCENT ELA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.93,
     "pvp":15
   },
   {
     "codigo":"2306022954GMP",
     "producto":"CONCHA BIELA GETZ 1.6,ELANTRA, ACCE 0.40",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.31,
     "pvp":15
   },
   {
     "codigo":"2306022953GMP",
     "producto":"CONCHA BIELA GETZ 1.6,ELANTRA1.6,ACC 030",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.31,
     "pvp":15
   },
   {
     "codigo":"2306023902GMP",
     "producto":"CONCHA BIELA HY TUCSON, SPORT,ELANT 2.0+",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.69,
     "pvp":15
   },
   {
     "codigo":"230602254005KP",
     "producto":"CONCHA BIELA HYUNDAI ACCENT 1.5L (RK7220",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":5.08,
     "pvp":15
   },
   {
     "codigo":"RK7220A1.00MP",
     "producto":"CONCHA BIELA HYUNDAI ACCENT 1.5L (RK7220",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.08,
     "pvp":15
   },
   {
     "codigo":"2306023901GMP",
     "producto":"CONCHA BIELA HYUNDAI TUCSON, ELANTRA 2.0",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":5.75,
     "pvp":15
   },
   {
     "codigo":"OK3Y011SE0100HY",
     "producto":"CONCHA BIELA RIO 1.3 1.5 1.00-040",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.75,
     "pvp":15
   },
   {
     "codigo":"2306037140GMP",
     "producto":"CONCHA BIELA SANTA FE-SPORTAGE2,7\/OP STD",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":21.83,
     "pvp":38
   },
   {
     "codigo":"2306023340STDGM",
     "producto":"CONCHA BIELA TUCSON, ELAN 2.0,SPOR STD",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.69,
     "pvp":15
   },
   {
     "codigo":"C825041.00NB",
     "producto":"CONCHA COJINETE HYUNDAI ACCENT 1.5L (MK7",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":9.5,
     "pvp":20
   },
   {
     "codigo":"MK7210A075NB",
     "producto":"CONCHA COJINETE HYUNDAI ELANTRA 2.0L",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":9.13,
     "pvp":20
   },
   {
     "codigo":"2102002592AME",
     "producto":"CONCHA DE BANCADA 0.50\/020 HYUNDAI ATOS,",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":6.1,
     "pvp":20
   },
   {
     "codigo":"OK6Z0110.20AME",
     "producto":"CONCHA DE BANCADA 0.50\/020 KIA PREGIO (E",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":9.6,
     "pvp":30
   },
   {
     "codigo":"2102022955AME",
     "producto":"CONCHA DE BANCADA 020\/0.50ACCEN1.3\/1.5GE",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":9.21,
     "pvp":20
   },
   {
     "codigo":"OK6Z0110.30AME",
     "producto":"CONCHA DE BANCADA 030\/0.75 KIA PREGIO 3.",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":9.6,
     "pvp":30
   },
   {
     "codigo":"2102026040100JK",
     "producto":"CONCHA DE BANCADA ACCENT 1.5 100",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":10.48,
     "pvp":20
   },
   {
     "codigo":"2102023140AME",
     "producto":"CONCHA DE BANCADA STD HYUNDAI ELANTRA",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":6.55,
     "pvp":20
   },
   {
     "codigo":"OK6Z011STDAME",
     "producto":"CONCHA DE BANCADA STD KIA PREGIO 3.0",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":10.05,
     "pvp":30
   },
   {
     "codigo":"2102023091MOB",
     "producto":"CONCHA DE BANCADA STD TUCSON\/ELANTRA 2.0",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":8.92,
     "pvp":20
   },
   {
     "codigo":"2102023902AME",
     "producto":"CONCHA DE BANCADA TUCSON 2.0\/ELANTRA 1.8",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":9.0,
     "pvp":20
   },
   {
     "codigo":"2306002591AME",
     "producto":"CONCHA DE BIELA 0.25\/010 HYUNDAI ATOS, K",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.35,
     "pvp":15
   },
   {
     "codigo":"2306002592AME",
     "producto":"CONCHA DE BIELA 0.50\/020 HYUNDAI ATOS, K",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.35,
     "pvp":15
   },
   {
     "codigo":"OVNY111SE0075AM",
     "producto":"CONCHA DE BIELA 0.75\/030 KIA PREGIO 3.0",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.1,
     "pvp":20
   },
   {
     "codigo":"2306021932AME",
     "producto":"CONCHA DE BIELA 020\/0.50 HYUNDAI EXCEL",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":4.35,
     "pvp":15
   },
   {
     "codigo":"0VNY111SE0040AM",
     "producto":"CONCHA DE BIELA 040\/1.00 KIA PREGIO 3.0",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":6.1,
     "pvp":20
   },
   {
     "codigo":"2306021902020MO",
     "producto":"CONCHA DE BIELA EXCEL\/LANCER 1.3-1.5",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.5,
     "pvp":15
   },
   {
     "codigo":"EB4495AM050USA",
     "producto":"CONCHA DE BIELA FORD FESTIVA\/ CHERY TURP",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":5.04,
     "pvp":15
   },
   {
     "codigo":"2306025110GMP",
     "producto":"CONCHA DE BIELA NEW CARENS\/OPTIMA H1 025",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":19.65,
     "pvp":35
   },
   {
     "codigo":"2306025120GMP",
     "producto":"CONCHA DE BIELA NEW CARENS\/OPTIMA H1 050",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":19.65,
     "pvp":35
   },
   {
     "codigo":"2306037200GMP",
     "producto":"CONCHA DE BIELA SANTA F, SPOTAG2,7 STD",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":19.65,
     "pvp":35
   },
   {
     "codigo":"2306037921GMP",
     "producto":"CONCHA DE BIELA SANTA FE,SPOTAGE2,7\/0.25",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":19.65,
     "pvp":35
   },
   {
     "codigo":"230603C921MOTEC",
     "producto":"CONCHA DE BIELA SONATA3,3\/SEDONA SOR0.25",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":32.74,
     "pvp":60
   },
   {
     "codigo":"230603C922MOTEC",
     "producto":"CONCHA DE BIELA SONATA3,3\/SEDONA SOR0.50",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":32.74,
     "pvp":56
   },
   {
     "codigo":"2306023140AME",
     "producto":"CONCHA DE BIELA STD HYUNDAI ELANTRA,",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":4.8,
     "pvp":15
   },
   {
     "codigo":"2306021124AME",
     "producto":"CONCHA DE BIELA STD HYUNDAI EXCEL",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":4.35,
     "pvp":15
   },
   {
     "codigo":"0VNY111SEOSTDAM",
     "producto":"CONCHA DE BIELA STD KIA PREGIO 3.0",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":6.39,
     "pvp":20
   },
   {
     "codigo":"2306023912MCHHI",
     "producto":"CONCHA DE BIELA TUCSON 2.0",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":5.0,
     "pvp":15
   },
   {
     "codigo":"2306023912030MO",
     "producto":"CONCHA DE BIELA TUCSON\/ELANTRA 2.0\/KIA S",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":4.6,
     "pvp":15
   },
   {
     "codigo":"21020229540MOB.",
     "producto":"CONCHAS BANCADAS HYUNDAI ACCENT\/GETZ 075",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":6.6,
     "pvp":12
   },
   {
     "codigo":"2306023901075MO",
     "producto":"CONCHAS BIELAS HYUNDAI ELANTRA 1.8 \/",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":3.47,
     "pvp":15
   },
   {
     "codigo":"23060229540MOB",
     "producto":"CONCHAS BIELAS HYUNDAI GEZT\/ ELANTRA1.6",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":3.3,
     "pvp":15
   },
   {
     "codigo":"2102023901STDED",
     "producto":"CONCHAS DE BANCADAS HYUNDAI ELANTRA 1.8L",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.7,
     "pvp":15
   },
   {
     "codigo":"2306038540ADD",
     "producto":"CONCHAS DE BIELA STD HYUNDAI STAREX",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":10.25,
     "pvp":20
   },
   {
     "codigo":"MCH1780MOR",
     "producto":"CONECTOR BOBINA HYUNDAI GETZ, ACCENT",
-    "existencia":8.0,
+    "Existencia":8.0,
     "costo":1.32,
     "pvp":10
   },
   {
     "codigo":"MCH1870MOR",
     "producto":"CONECTOR BOBINA HYUNDAI GETZ, ACCENT",
-    "existencia":7.0,
+    "Existencia":7.0,
     "costo":1.32,
     "pvp":10
   },
   {
     "codigo":"TIMI755TITAN",
     "producto":"COPA CAJA TRICETA ELANTRA 2.0 (23*25*41",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":43.03,
     "pvp":74
   },
   {
     "codigo":"TIMI729TITAN",
     "producto":"COPA CAJA TRICETA EXCEL, ACCE 69MM (22*2",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":39.78,
     "pvp":68
   },
   {
     "codigo":"TIMI730TITAN",
     "producto":"COPA CAJA TRICETA GETZ, ACCENT (22*25*35",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":40.2,
     "pvp":69
   },
   {
     "codigo":"TIMI740TITAN",
     "producto":"COPA CAJA TRICETA I TUCSON 4X2 AUTOMATIK",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":40.97,
     "pvp":70
   },
   {
     "codigo":"TIKA03TIT",
     "producto":"COPA KA\/C\/TRICETA KIA PICANTO AUTOMATICO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":20.48,
     "pvp":45
   },
   {
     "codigo":"TIMI740TIT",
     "producto":"COPA MI\/C\/TRICETA TUCSON MACHO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":25.2,
     "pvp":45
   },
   {
     "codigo":"4PK675DAYCO",
     "producto":"CORREA A.A.  PICANTO",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":2.14,
     "pvp":4
   },
   {
     "codigo":"OK72B15909BAN",
     "producto":"CORREA A\/A KIA PREGIO A36.6",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":3.09,
     "pvp":10
   },
   {
     "codigo":"4PK0900EDS",
     "producto":"CORREA ALT. ACCENT \/ GETZ \/ ECLIPSE \/ GA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":3.18,
     "pvp":6
   },
   {
     "codigo":"4PK900CONTINEN",
     "producto":"CORREA ALTERNADOR  ACCENT, GETZ, TUCS,EL",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":3.33,
     "pvp":6
   },
   {
     "codigo":"4PK885DAYCO",
     "producto":"CORREA ALTERNADOR  RIO 1,5, SEPHIA 1.5,",
-    "existencia":7.0,
+    "Existencia":7.0,
     "costo":2.8,
     "pvp":6
   },
   {
     "codigo":"4PK875CAP",
     "producto":"CORREA ALTERNADOR EXCEL \/ ELANTRA 2.0 *C",
-    "existencia":6.0,
+    "Existencia":6.0,
     "costo":1.84,
     "pvp":6
   },
   {
     "codigo":"4PK778DAYCO",
     "producto":"CORREA ALTERNADOR PICANTO",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":2.46,
     "pvp":6
   },
   {
     "codigo":"252154Z020EAC",
     "producto":"CORREA ALTERNADOR PREGIO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.7,
     "pvp":12
   },
   {
     "codigo":"T168EDS",
     "producto":"CORREA BALANCEADORA H1 65 DIENTES",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":2.6,
     "pvp":10
   },
   {
     "codigo":"RA4PK850",
     "producto":"CORREA DE AIRE ACONDICIONADO ACCENT1.5,G",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":2.81,
     "pvp":6
   },
   {
     "codigo":"4PK890GATES",
     "producto":"CORREA DE AIRE ACONDICIONADO DE TUCSON",
-    "existencia":5.0,
+    "Existencia":5.0,
     "costo":2.9,
     "pvp":6
   },
   {
     "codigo":"2445038011HYUND",
     "producto":"CORREA DE TIEMPO 173 DIENTES",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":20.0,
     "pvp":34
   },
   {
     "codigo":"A394RU22MMSUN",
     "producto":"CORREA DE TIEMPO HYUNDAI ACCENT 1.5\/ELAN",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":5.2,
     "pvp":25
   },
   {
     "codigo":"175S8M29MITSUBA",
     "producto":"CORREA DE TIEMPO HYUNDAI H1 2007",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":17.12,
     "pvp":45
   },
   {
     "codigo":"A485YU22MMKYUS",
     "producto":"CORREA DE TIEMPO KIA CARENS 1.8 (154 DT)",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":24.09,
     "pvp":41
   },
   {
     "codigo":"4PK855MIT",
     "producto":"CORREA DH\/FI PALIO ALT 98-02 CH NEON M2.",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":3.36,
     "pvp":6
   },
   {
     "codigo":"4PK620MIT",
     "producto":"CORREA DH\/HY ACCENT M1.5 GETZ M1.3",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.6,
     "pvp":6
   },
   {
     "codigo":"4PK850DAYCO",
     "producto":"CORREA DIRECCION HIDRAULICA  ELANTRA 1.8",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":2.69,
     "pvp":6
   },
   {
     "codigo":"17260DAYCO",
     "producto":"CORREA DIRECCION HIDRAULICA  GETZ 1.6L\/E",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":2.66,
     "pvp":5
   },
   {
     "codigo":"3PK675DAYCO",
     "producto":"CORREA DIRECCION HIDRAULICA ELANTRA 2.0\/",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":1.6,
     "pvp":3
   },
   {
     "codigo":"5732129100DONG",
     "producto":"CORREA DIRECCION HIDRAULICA GETZ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":5.87,
     "pvp":10
   },
   {
     "codigo":"15250EDS",
     "producto":"CORREA EN V 15250",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":1.3,
     "pvp":6
   },
   {
     "codigo":"15250MOCA",
     "producto":"CORREA EN V 15250",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":1.47,
     "pvp":6
   },
   {
     "codigo":"4PK0897EDS",
     "producto":"CORREA HYUNDAI ACCENT ALTERNADOR",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":3.18,
     "pvp":6
   },
   {
     "codigo":"4PK900AME",
     "producto":"CORREA MULTICANAL ACCENT, GETZ, ESTEEM,",
-    "existencia":5.0,
+    "Existencia":5.0,
     "costo":2.3,
     "pvp":6
   },
   {
     "codigo":"4PK855AME",
     "producto":"CORREA MULTICANAL DE A\/AC HYUNDAI TUCSON",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":2.25,
     "pvp":6
   },
   {
     "codigo":"4PK970AME",
     "producto":"CORREA MULTICANAL DE A\/AC KIA RÍO 1.3,",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":2.5,
     "pvp":6
   },
   {
     "codigo":"3PK670AME",
     "producto":"CORREA MULTICANAL DE DIRECCION HYUNDAI",
-    "existencia":6.0,
+    "Existencia":6.0,
     "costo":1.3,
     "pvp":6
   },
   {
     "codigo":"4PK610A2MBPR",
     "producto":"CORREA MULTICANAL HYUNDAI ACCENT",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":1.8,
     "pvp":6
   },
   {
     "codigo":"4PK850AME",
     "producto":"CORREA MULTICANAL HYUNDAI ACCENT, GETZ",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":2.15,
     "pvp":6
   },
   {
     "codigo":"4PK830AME",
     "producto":"CORREA MULTICANAL HYUNDAI GETZ 1.6, ACCE",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":2.1,
     "pvp":6
   },
   {
     "codigo":"4PK845AME",
     "producto":"CORREA MULTICANAL HYUNDAI GETZ, ACCENT,",
-    "existencia":7.0,
+    "Existencia":7.0,
     "costo":2.15,
     "pvp":6
   },
   {
     "codigo":"4PK890AME",
     "producto":"CORREA MULTICANAL KIA CERATO, SEPHIA",
-    "existencia":5.0,
+    "Existencia":5.0,
     "costo":2.25,
     "pvp":6
   },
   {
     "codigo":"4PK815AME",
     "producto":"CORREA MULTICANAL STEEM, SWIFT, WAGON R,",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":2.09,
     "pvp":6
   },
   {
     "codigo":"4PK865AME",
     "producto":"CORREA MULTICANAL SWIFT, COROLLA (88-94)",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":2.2,
     "pvp":6
   },
   {
     "codigo":"T281JKG",
     "producto":"CORREA T. 168 DIENTES KIA SPORTAGE 2.0 D",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":11.07,
     "pvp":35
   },
   {
     "codigo":"92RU22MITSUBA",
     "producto":"CORREA TIEMPO 092D ACCENT",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":5.72,
     "pvp":25
   },
   {
     "codigo":"113RP254HDAYCO",
     "producto":"CORREA TIEMPO ELANTR \/TUCSON\/ SPORTAG\/CA",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":8.78,
     "pvp":15
   },
   {
     "codigo":"92ZBS19MITSUBA",
     "producto":"CORREA TIEMPO EXCEL 92D",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":5.2,
     "pvp":25
   },
   {
     "codigo":"A346YS22MMSUN",
     "producto":"CORREA TIEMPO HYUNDAI ACCENT BRISA 1,3-1",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":6.0,
     "pvp":25
   },
   {
     "codigo":"111RU254MITSUBA",
     "producto":"CORREA TIEMPO HYUNDAI ELANTRA 1.8 111D",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":10.72,
     "pvp":35
   },
   {
     "codigo":"137S8M22MITSUBA",
     "producto":"CORREA TIEMPO KIA RIO 1.5, 137D",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":9.11,
     "pvp":35
   },
   {
     "codigo":"137STP220HDAYCO",
     "producto":"CORREA TIEMPO RIO 1.5",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":9.18,
     "pvp":35
   },
   {
     "codigo":"149RU25GATES",
     "producto":"CORREA TIEMPO SOTANA 3.0 149 DIENT",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":10.72,
     "pvp":30
   },
   {
     "codigo":"207RHP320HDAYCO",
     "producto":"CORREA TIEMPO STA FE GOLD\/SPORTAGE \/SON",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":20.48,
     "pvp":35
   },
   {
     "codigo":"4PK845GATES",
     "producto":"CORREA UNICA ALTERNADOR HYUNDAI GETZ 1.6",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":2.48,
     "pvp":6
   },
   {
     "codigo":"6PK2475DAYCO",
     "producto":"CORREA UNICA HYU SONATA MTR 3.3",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":10.98,
     "pvp":25
   },
   {
     "codigo":"6PK2005MITSUBA",
     "producto":"CORREA ÚNICA HYUNDAI ELANTRA \/ SANTA FE",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":9.29,
     "pvp":25
   },
   {
     "codigo":"6PK2137DAYCO",
     "producto":"CORREA UNICA KIA CERATO 06-13 MTR 1.6L",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":10.14,
     "pvp":25
   },
   {
     "codigo":"6PK2584DAYCO",
     "producto":"CORREA UNICA KIA NEW CARENS",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":11.45,
     "pvp":25
   },
   {
     "codigo":"6PK2056DAYCO",
     "producto":"CORREA UNICA SANTA FE 2008 2,7 \/ OPTIMA",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":9.76,
     "pvp":25
   },
   {
     "codigo":"6PK2000EDS",
     "producto":"CORREA UNICA STA FE 2.7 AC\/KIA OPTIMA",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":10.61,
     "pvp":25
   },
   {
     "codigo":"5175025001KAPAR",
     "producto":"CUBO DE RUEDA DEL. HY GETZ, PICANTO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":14.54,
     "pvp":25
   },
   {
     "codigo":"517502D000KAP",
     "producto":"CUBO DE RUEDA DEL. HYUNDAI ELANTRA XD 1.",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":14.99,
     "pvp":30
   },
   {
     "codigo":"527102D100KAP",
     "producto":"CUBO DE RUEDA TRS. HYUNDAI ELANTRA,",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":28.0,
     "pvp":60
   },
   {
     "codigo":"527101C000TRM",
     "producto":"CUBO RDA HYUNDAI GETZ TRAS (TODOS)",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":51.64,
     "pvp":88
   },
   {
     "codigo":"5271029400AME",
     "producto":"CUBO RUEDA TRS. ACCENT",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":26.0,
     "pvp":45
   },
   {
     "codigo":"231242B000EXACT",
     "producto":"DAMPER CIGUEÑAL HYU. ACCENT \/ ELANTRA \/",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":40.32,
     "pvp":69
   },
   {
     "codigo":"231243E010SEONG",
     "producto":"DAMPER HYUNDAI SANTA FE 2.7",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":76.57,
     "pvp":131
   },
   {
     "codigo":"231242G600EXACT",
     "producto":"DAMPER POLEA CIGUEÑAL SANT FE TUCS SONA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":43.11,
     "pvp":80
   },
   {
     "codigo":"VKD13353ASIAIN",
     "producto":"DISCO CLUTCH 180 MILIMETROS ACCENT 1.3",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":26.96,
     "pvp":46
   },
   {
     "codigo":"121005930MHW",
     "producto":"DISCO D EMBRAGUE ADEL,ACC GEZT, ELA 1.6",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":27.13,
     "pvp":47
   },
   {
     "codigo":"4110039260MHW",
     "producto":"DISCO DE EMBRAGUE TUCSON 2004-10\/KIA SPO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":23.6,
     "pvp":41
   },
   {
     "codigo":"5171225010TK",
     "producto":"DISCO FRENO DEL. HYU. ACCENT\/VERNA 99\/05",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":27.31,
     "pvp":50
   },
   {
     "codigo":"K01133251DASIA",
     "producto":"DISCO FRENO DEL. KIA SPORTAGE 01\/05 \/RET",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":28.63,
     "pvp":60
   },
   {
     "codigo":"517121F300TAKAS",
     "producto":"DISCO FRENO KIA SPORTAGE 10\/15\/ CERATO \/",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":39.51,
     "pvp":68
   },
   {
     "codigo":"OK30E1311CMMIT",
     "producto":"EMPACADURA ADMISION\/KI RIO **10**",
-    "existencia":6.0,
+    "Existencia":6.0,
     "costo":0.58,
     "pvp":5
   },
   {
     "codigo":"2231122300GM",
     "producto":"EMPACADURA CAMARA 1.3 CC ACCENT",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":2.05,
     "pvp":5
   },
   {
     "codigo":"2231122001GM",
     "producto":"EMPACADURA CAMARA 1.5 CC ACCENT",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":2.05,
     "pvp":5
   },
   {
     "codigo":"2231102760MB",
     "producto":"EMPACADURA CAMARA ATOZ PICANTO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":3.25,
     "pvp":6
   },
   {
     "codigo":2231139501,
     "producto":"EMPACADURA CAMARA DE CAMARA SEDONA SOREN",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.67,
     "pvp":15
   },
   {
     "codigo":2231139502,
     "producto":"EMPACADURA CAMARA DE CAMARA SEDONA SOREN",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.67,
     "pvp":15
   },
   {
     "codigo":"2231121120HYUND",
     "producto":"EMPACADURA CAMARA EXCEL 1.3 1.5 LANCER C",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":2.58,
     "pvp":10
   },
   {
     "codigo":"2231126100MB",
     "producto":"EMPACADURA CAMARA GETZ ELANTRA RIO CVVT",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":3.25,
     "pvp":6
   },
   {
     "codigo":"223112B000SEONG",
     "producto":"EMPACADURA CAMARA KIA CERATO 1.6 SEONG",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":5.16,
     "pvp":15
   },
   {
     "codigo":"2231139501MB",
     "producto":"EMPACADURA CAMARA SEDONA SOREN SET 2",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":10.69,
     "pvp":25
   },
   {
     "codigo":2231123700,
     "producto":"EMPACADURA CAMARA TUCSON ELANTRA MATRIX",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":3.06,
     "pvp":6
   },
   {
     "codigo":"2231123700MB",
     "producto":"EMPACADURA CAMARA TUCSON ELANTRA MATRIX",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":3.25,
     "pvp":6
   },
   {
     "codigo":"0K24710271BSGG",
     "producto":"EMPACADURA CARENS 1,8 CAMARA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":13.1,
     "pvp":23
   },
   {
     "codigo":"4528522000CAP",
     "producto":"EMPACADURA CARTER ACCENT",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":1.51,
     "pvp":5
   },
   {
     "codigo":"2231126101MOB",
     "producto":"EMPACADURA DE CAMARA GETS1.6L\/ELANTRA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.46,
     "pvp":5
   },
   {
     "codigo":"2231138400PAR",
     "producto":"EMPACADURA DE CAMARA HYUNDAI STAREX 2.4",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":12.9,
     "pvp":22
   },
   {
     "codigo":"2231123700MHW",
     "producto":"EMPACADURA DE CAMARA HYUNDAI TUCSON\/ ELA",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":2.66,
     "pvp":5
   },
   {
     "codigo":"OK30E10271MHW",
     "producto":"EMPACADURA DE CAMARA KIA RIO \/ STYLUS 1,",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":1.89,
     "pvp":5
   },
   {
     "codigo":"OK30E10271RA",
     "producto":"EMPACADURA DE CAMARA KIA RIO 1.5",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":2.8,
     "pvp":5
   },
   {
     "codigo":"2231137210MOB",
     "producto":"EMPACADURA DE CAMARA SANTA FE (LH)",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":3.29,
     "pvp":10
   },
   {
     "codigo":"2231137220MOB",
     "producto":"EMPACADURA DE CAMARA SANTA FE (RH)",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":3.29,
     "pvp":10
   },
   {
     "codigo":"2231122001MHW",
     "producto":"EMPACADURA DE CAMARA TUCSON ELANTRA 2.0",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":2.08,
     "pvp":5
   },
   {
     "codigo":"2091022P00EMA",
     "producto":"EMPACADURA DE MULTIPLE D ADMISION ACCENT",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":1.0,
     "pvp":5
   },
   {
     "codigo":"2244122613HYUND",
     "producto":"EMPACADURA DE T\/V ACCENT",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.0,
     "pvp":5
   },
   {
     "codigo":"2244121010PAME",
     "producto":"EMPACADURA DE TAPA VALVULA HYUNDAI EXCEL",
-    "existencia":9.0,
+    "Existencia":9.0,
     "costo":1.25,
     "pvp":10
   },
   {
     "codigo":"2244138010HAME",
     "producto":"EMPACADURA DE TAPA VALVULA HYUNDAI STARE",
-    "existencia":8.0,
+    "Existencia":8.0,
     "costo":2.3,
     "pvp":10
   },
   {
     "codigo":"2244338010PARTS",
     "producto":"EMPACADURA SELLOS BUJIA H1 07 CORREA",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":2.5,
     "pvp":5
   },
   {
     "codigo":"224533C120PART",
     "producto":"EMPACADURA T. VAL. LH SEDO\/SONA\/SOREN",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":8.22,
     "pvp":14
   },
   {
     "codigo":"224413C110PART",
     "producto":"EMPACADURA T. VAL. RH SEDO\/SONA\/SOREN",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":8.22,
     "pvp":14
   },
   {
     "codigo":"2241102400AMEPA",
     "producto":"EMPACADURA T\/V HYUNDAI ATOS\/KIA PICANTO",
-    "existencia":6.0,
+    "Existencia":6.0,
     "costo":2.13,
     "pvp":5
   },
   {
     "codigo":"2244122012MOB",
     "producto":"EMPACADURA T\/V HYUNDAI GETZ 1.3, ACCENT",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":1.32,
     "pvp":5
   },
   {
     "codigo":"2244126100AMEPA",
     "producto":"EMPACADURA T\/V HYUNDAI GETZ 1.6\/ELANTRA",
-    "existencia":6.0,
+    "Existencia":6.0,
     "costo":2.62,
     "pvp":5
   },
   {
     "codigo":"VS60002GAMEPART",
     "producto":"EMPACADURA T\/V KIA RIO 1.5 16 V 02\/13 M",
-    "existencia":7.0,
+    "Existencia":7.0,
     "costo":2.69,
     "pvp":5
   },
   {
     "codigo":"2244123762AMEPA",
     "producto":"EMPACADURA T\/V KIA SPORTAGE 2.0 06\/12 M",
-    "existencia":12.0,
+    "Existencia":12.0,
     "costo":2.62,
     "pvp":5
   },
   {
     "codigo":"2244137110AMEPA",
     "producto":"EMPACADURA T\/V KIA SPORTAGE 2.7 \/SANTA F",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":10.64,
     "pvp":19
   },
   {
     "codigo":"2244139810DYG",
     "producto":"EMPACADURA T\/V SEDONA SORENTO 3,5(KIT EM",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":19.65,
     "pvp":34
   },
   {
     "codigo":"OK30E10235MIT",
     "producto":"EMPACADURA T\/V\/KI RIO M\/V",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":3.4,
     "pvp":10
   },
   {
     "codigo":"K2244122012MOB",
     "producto":"EMPACADURA TAPA VALVULA ACCENT 1.3\/1.5\/G",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":1.86,
     "pvp":5
   },
   {
     "codigo":"2244126003MOB",
     "producto":"EMPACADURA TAPA VALVULA GETZ \/ ELANTRA 1",
-    "existencia":10.0,
+    "Existencia":10.0,
     "costo":1.86,
     "pvp":5
   },
   {
     "codigo":"2244126003MHW",
     "producto":"EMPACADURA TAPA VALVULA HYUNDAI GETZ 1.6",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":1.63,
     "pvp":5
   },
   {
     "codigo":"0K65A10235CKIA",
     "producto":"EMPACADURA TAPA VALVULA PREGIO 3.0 DIESE",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":1.39,
     "pvp":5
   },
   {
     "codigo":"224422G000",
     "producto":"EMPACADURA TV NEW CARENS (A CADENA)",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":2.36,
     "pvp":10
   },
   {
     "codigo":2244137101,
     "producto":"EMPACADURA TV SANTA FE GOLD - SONATA 2,7",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":5.25,
     "pvp":10
   },
   {
     "codigo":2244126100,
     "producto":"EMPACADURA TV. GETZ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":1.99,
     "pvp":5
   },
   {
     "codigo":"2091022P00EV",
     "producto":"EMPACADURAS VARIAS ACCENT 1.3",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.0,
     "pvp":5
   },
   {
     "codigo":"2421123000HYUND",
     "producto":"ENGRAJE LEVA TUCSON\/SPORTAGE 2.0",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":28.14,
     "pvp":50
   },
   {
     "codigo":"2312125000SEONG",
     "producto":"ENGRANAJE CIGUENAL H1 09 SEONG",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":28.14,
     "pvp":48
   },
   {
     "codigo":"2312122600CAP",
     "producto":"ENGRANAJE CIGÜEÑAL ACCENT 1.3\/1.5 24D",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.79,
     "pvp":20
   },
   {
     "codigo":"0K30C11321SEONG",
     "producto":"ENGRANAJE CIGUEÑAL KIA RIO STYLUS 1.5",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":41.76,
     "pvp":71
   },
   {
     "codigo":"0K30E10602HYUND",
     "producto":"ESTOPERA ARBO LEVA KIA RIO\/FESTIV34X52X7",
-    "existencia":6.0,
+    "Existencia":6.0,
     "costo":0.5,
     "pvp":3
   },
   {
     "codigo":"2142133114POS",
     "producto":"ESTOPERA BOMBA ACEITE H1 07 CORREA",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.11,
     "pvp":10
   },
   {
     "codigo":"2142125000KOS",
     "producto":"ESTOPERA BOMBA ACEITE NEW CARENS\/OPTIMA",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":3.28,
     "pvp":10
   },
   {
     "codigo":"213523C500KOS",
     "producto":"ESTOPERA BOMBA ACEITE SONATA 3,3\/SEDONA-",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":3.28,
     "pvp":10
   },
   {
     "codigo":"4735039300KOS",
     "producto":"ESTOPERA CAJA\/TRANSFER(56*76*9)SANTA FE",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":9.17,
     "pvp":16
   },
   {
     "codigo":"2142122001MMIT",
     "producto":"ESTOPERA CIG DELT\/HY EXCEL ACCENT M1.3-1",
-    "existencia":6.0,
+    "Existencia":6.0,
     "costo":0.73,
     "pvp":3
   },
   {
     "codigo":"2142123000MMIT",
     "producto":"ESTOPERA CIG DELT\/HY TUCSON ELANTRA M2.0",
-    "existencia":5.0,
+    "Existencia":5.0,
     "costo":0.94,
     "pvp":5
   },
   {
     "codigo":"2144302500MMIT",
     "producto":"ESTOPERA CIG TRAS\/HY ATOS KI PICANTO (60",
-    "existencia":5.0,
+    "Existencia":5.0,
     "costo":1.18,
     "pvp":8
   },
   {
     "codigo":"2142135011HYUND",
     "producto":"ESTOPERA CIG. DEL. SANTA FE\/SPORTAGE\/OPT",
-    "existencia":5.0,
+    "Existencia":5.0,
     "costo":0.5,
     "pvp":5
   },
   {
     "codigo":"2144335510MOB",
     "producto":"ESTOPERA CIG. TRAS.  SANTA FE\/SPORTAGE\/O",
-    "existencia":5.0,
+    "Existencia":5.0,
     "costo":0.8,
     "pvp":10
   },
   {
     "codigo":"0K20111312HYUND",
     "producto":"ESTOPERA CIG. TRAS. KIA RIO 83X100X9",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":0.75,
     "pvp":5
   },
   {
     "codigo":"2142122001HYUND",
     "producto":"ESTOPERA CIGÜEÑAL DELANTERA ACCENT\/ELANT",
-    "existencia":18.0,
+    "Existencia":18.0,
     "costo":0.5,
     "pvp":3
   },
   {
     "codigo":"2142123020MOB",
     "producto":"ESTOPERA CIGUEÑAL DELT TUCSON\/ELANTRA2.0",
-    "existencia":14.0,
+    "Existencia":14.0,
     "costo":0.62,
     "pvp":5
   },
   {
     "codigo":"2144322000HYUND",
     "producto":"ESTOPERA CIGÜEÑAL TRAS ELANTR1.6\/GEZT,AC",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":0.75,
     "pvp":5
   },
   {
     "codigo":"2144322000MHW",
     "producto":"ESTOPERA CIGUEÑAL TRASERA ACCENT,GETZ 72",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":0.95,
     "pvp":5
   },
   {
     "codigo":"2144322000NOK",
     "producto":"ESTOPERA CIGUEÑAL TRASERA HYUNDAI GETZ,",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":1.26,
     "pvp":5
   },
   {
     "codigo":"OK20111312NOK",
     "producto":"ESTOPERA CIGUEÑAL TRASERA KIA RIO\/FESTIV",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":1.81,
     "pvp":5
   },
   {
     "codigo":"2144325000KOS",
     "producto":"ESTOPERA CIGÜEÑAL TRASERA NEW CARENS OPT",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":5.9,
     "pvp":15
   },
   {
     "codigo":"OK24711312KOS",
     "producto":"ESTOPERA CIGÜEÑAL TRASERO CARENS 1.8 SHU",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.55,
     "pvp":15
   },
   {
     "codigo":"2144333005MOB",
     "producto":"ESTOPERA CIGUEÑAL TRASERO ELANTRA \/TUCSO",
-    "existencia":10.0,
+    "Existencia":10.0,
     "costo":1.63,
     "pvp":8
   },
   {
     "codigo":"4311928080SABO",
     "producto":"ESTOPERA COPA CAJA ACCENT,GETZ,ELA",
-    "existencia":9.0,
+    "Existencia":9.0,
     "costo":1.23,
     "pvp":3
   },
   {
     "codigo":"4311939080PHG",
     "producto":"ESTOPERA COPA CAJA LH TUCSON\/SPORTAGE\/EL",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.55,
     "pvp":12
   },
   {
     "codigo":"4311928001NOK",
     "producto":"ESTOPERA COPA CAJA TRICETA KIA RIO \/ ACC",
-    "existencia":15.0,
+    "Existencia":15.0,
     "costo":2.35,
     "pvp":5
   },
   {
     "codigo":"431193901SABO",
     "producto":"ESTOPERA COPA CAJA TUCSON",
-    "existencia":9.0,
+    "Existencia":9.0,
     "costo":1.33,
     "pvp":3
   },
   {
     "codigo":"4311939011HYUND",
     "producto":"ESTOPERA COPA CAJA TUCSON\/ELANTR 41X61X9",
-    "existencia":9.0,
+    "Existencia":9.0,
     "costo":2.9,
     "pvp":5
   },
   {
     "codigo":"MD377999AME",
     "producto":"ESTOPERA DE CIGÜEÑAL DEL. HY ATOS,PICANT",
-    "existencia":7.0,
+    "Existencia":7.0,
     "costo":0.37,
     "pvp":3
   },
   {
     "codigo":"96350161AME",
     "producto":"ESTOPERA DE CIGÜEÑAL DELANT 2.7",
-    "existencia":6.0,
+    "Existencia":6.0,
     "costo":0.31,
     "pvp":5
   },
   {
     "codigo":"MD069947AME",
     "producto":"ESTOPERA DE CIGÜEÑAL TRS 2.0 MOTOR D CAD",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":0.84,
     "pvp":10
   },
   {
     "codigo":"5171321100AME",
     "producto":"ESTOPERA DE RUEDA DEL. HYUNDAI ACCENT (5",
-    "existencia":14.0,
+    "Existencia":14.0,
     "costo":0.68,
     "pvp":3
   },
   {
     "codigo":"0B37C10602AKOS",
     "producto":"ESTOPERA DEL. CIG. KIA RIO KOS",
-    "existencia":8.0,
+    "Existencia":8.0,
     "costo":2.39,
     "pvp":5
   },
   {
     "codigo":"213523C500FANZ",
     "producto":"ESTOPERA DELANTERA CIGÜEÑAL SONATA- AZER",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":0.92,
     "pvp":10
   },
   {
     "codigo":"555503E100PM",
     "producto":"ESTOPERA DIFERENCIAL KIA SORENTO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":6.7,
     "pvp":15
   },
   {
     "codigo":"2214421010FANZ",
     "producto":"ESTOPERA LEVA ACCEN EXEL TUCSON 35*50*8",
-    "existencia":11.0,
+    "Existencia":11.0,
     "costo":0.92,
     "pvp":3
   },
   {
     "codigo":"0K30E10602KOS",
     "producto":"ESTOPERA LEVA KIA RIO KOS",
-    "existencia":6.0,
+    "Existencia":6.0,
     "costo":3.68,
     "pvp":7
   },
   {
     "codigo":"34527KIA",
     "producto":"ESTOPERA LEVA RIO STYLUS1.502-10(34X52X7",
-    "existencia":13.0,
+    "Existencia":13.0,
     "costo":0.63,
     "pvp":3
   },
   {
     "codigo":"MB0013306GENUIN",
     "producto":"ESTOPERA RUEDA DEL.MAZDA RIO1.5 52X68X7",
-    "existencia":10.0,
+    "Existencia":10.0,
     "costo":1.29,
     "pvp":3
   },
   {
     "codigo":"KK15033065NOK",
     "producto":"ESTOPERA RUEDA DELT FESTIVA\/KIA RIO INTE",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":1.49,
     "pvp":3
   },
   {
     "codigo":"2244323001NOK",
     "producto":"ESTOPERA TAPA VALVULA HYUNDAY PAQ4",
-    "existencia":7.5,
+    "Existencia":7.5,
     "costo":2.56,
     "pvp":10
   },
   {
     "codigo":"0K20111312HYUN",
     "producto":"ESTOPERA TRASERA CIGUENAL RIO 1.5 ORIG",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":3.56,
     "pvp":7
   },
   {
     "codigo":"252154Z200",
     "producto":"FAN CLUTCH KIA PREGIO 3.0",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":36.72,
     "pvp":63
   },
   {
     "codigo":"2811307100FLYTO",
     "producto":"FILTRO  AIRE  PICANTO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":2.72,
     "pvp":10
   },
   {
     "codigo":"281131G000FLY",
     "producto":"FILTRO  AIRE  RIO 06\/ACCENT 0",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":2.99,
     "pvp":10
   },
   {
     "codigo":"281132B000FLY",
     "producto":"FILTRO  AIRE  SANTA FE 07-",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":3.27,
     "pvp":10
   },
   {
     "codigo":"281132F000FLYTO",
     "producto":"FILTRO  AIRE CERATO 04-",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":2.92,
     "pvp":10
   },
   {
     "codigo":"971332D205HYUND",
     "producto":"FILTRO A\/A ELANTRA",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.67,
     "pvp":15
   },
   {
     "codigo":"971332E210HYUN",
     "producto":"FILTRO A\/A TUCSON",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":7.25,
     "pvp":13
   },
   {
     "codigo":"263203C100PMC",
     "producto":"FILTRO ACEITE ELEMENTO SONATA 3.3",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":5.67,
     "pvp":10
   },
   {
     "codigo":"2630002501MOB",
     "producto":"FILTRO ACEITE HYUN GETZ ORIGINAL",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":3.81,
     "pvp":7
   },
   {
     "codigo":"MITO42040MIT",
     "producto":"FILTRO ACEITE\/GM NHR NKR KI KIA PREGIO G",
-    "existencia":6.0,
+    "Existencia":6.0,
     "costo":12.12,
     "pvp":21
   },
   {
     "codigo":"4632139010GN",
     "producto":"FILTRO CAJA HYUNDAI TUCSON ELANTRA\/KIA S",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":7.79,
     "pvp":14
   },
   {
     "codigo":"2630002502AME",
     "producto":"FILTRO DE ACEITE FORD LASER, FESTIVA, MA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.2,
     "pvp":5
   },
   {
     "codigo":"61334OST",
     "producto":"FILTRO DE ACEITE HY ACCENT, EXCEL,TUC,EL",
-    "existencia":9.0,
+    "Existencia":9.0,
     "costo":2.4,
     "pvp":5
   },
   {
     "codigo":"51334MHW",
     "producto":"FILTRO DE ACEITE HYUNDAI ACCENT ELAN RIO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":2.98,
     "pvp":6
   },
   {
     "codigo":"2811302510OST",
     "producto":"FILTRO DE AIRE HYUNDAI ATOS (E)",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":3.3,
     "pvp":10
   },
   {
     "codigo":"281132D000KAP",
     "producto":"FILTRO DE AIRE HYUNDAI ELANTRA XD, KIA (",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":3.14,
     "pvp":10
   },
   {
     "codigo":"281132D000AME",
     "producto":"FILTRO DE AIRE HYUNDAI ELANTRA, KIA CERA",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":3.44,
     "pvp":6
   },
   {
     "codigo":"281131C000OST",
     "producto":"FILTRO DE AIRE HYUNDAI GETZ 1.3-1.6",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.6,
     "pvp":10
   },
   {
     "codigo":"2811326000OST",
     "producto":"FILTRO DE AIRE HYUNDAI SANTA FE (07-10)",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":3.0,
     "pvp":10
   },
   {
     "codigo":"281133K200AME",
     "producto":"FILTRO DE AIRE HYUNDAI SONATA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":3.35,
     "pvp":10
   },
   {
     "codigo":"2811332510AME",
     "producto":"FILTRO DE AIRE HYUNDAI STAREX (H-1)",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.99,
     "pvp":16
   },
   {
     "codigo":"2811308000AME",
     "producto":"FILTRO DE AIRE HYUNDAI TUCSON, ELANTRA,",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":3.17,
     "pvp":6
   },
   {
     "codigo":"281134D000AME",
     "producto":"FILTRO DE AIRE KIA CARNIVAL, SEDONA 3.8",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":3.4,
     "pvp":10
   },
   {
     "codigo":"OK74R23603SEO",
     "producto":"FILTRO DE AIRE KIA PREGIO 3.0",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.89,
     "pvp":16
   },
   {
     "codigo":"OK30C13Z40AME",
     "producto":"FILTRO DE AIRE KIA RIO, STYLUS",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":3.3,
     "pvp":10
   },
   {
     "codigo":"OK30C13Z40KA",
     "producto":"FILTRO DE AIRE KIA RIO, STYLUS (SA62150U",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.75,
     "pvp":10
   },
   {
     "codigo":"OK2A513Z40AOST",
     "producto":"FILTRO DE AIRE KIA SEPHIA DOHC, CARENS",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":3.3,
     "pvp":10
   },
   {
     "codigo":"281133E000AME",
     "producto":"FILTRO DE AIRE KIA SORENTO (E)",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":3.0,
     "pvp":10
   },
   {
     "codigo":"49069MHW",
     "producto":"FILTRO DE AIRE MOTOR HY ACC, CVVT, KIA R",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":3.68,
     "pvp":10
   },
   {
     "codigo":"OK60A23603AJA",
     "producto":"FILTRO DE AIRE MOTOR HYUNDAI \/ KIA",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.81,
     "pvp":10
   },
   {
     "codigo":"281131C000AME",
     "producto":"FILTRO DE AIRE MOTOR HYUNDAI GETZ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.46,
     "pvp":10
   },
   {
     "codigo":"4632122731GENUI",
     "producto":"FILTRO DE CAJA HYUNDAI ACCENT GETZ",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":6.46,
     "pvp":12
   },
   {
     "codigo":"31922A9000MHW",
     "producto":"FILTRO DE COMBUSTIBLE PARA CAMIONETAS DI",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.42,
     "pvp":10
   },
   {
     "codigo":"319112E000HYUND",
     "producto":"FILTRO DE GASOLINA DE TUCSON",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.04,
     "pvp":15
   },
   {
     "codigo":"33461MHW",
     "producto":"FILTRO DE GASOLINA HYUNDAI ACCENT 1.3 1.",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":2.99,
     "pvp":6
   },
   {
     "codigo":"3191129000JA",
     "producto":"FILTRO DE GASOLINA HYUNDAY ELANTRA 96-99",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.45,
     "pvp":10
   },
   {
     "codigo":"311122E000AME",
     "producto":"FILTRO DE GASOLINA TUCSON, KIA SPORTAGE",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":9.31,
     "pvp":16
   },
   {
     "codigo":"OK60C23570SEO",
     "producto":"FILTRO GASOIL KIA PREGIO 3.0 SEONG",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":6.74,
     "pvp":20
   },
   {
     "codigo":"311121G000SAAK",
     "producto":"FILTRO GASOLINA ACCENT Y RIO CVVT 1.6-SA",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":10.48,
     "pvp":18
   },
   {
     "codigo":"3191102100SAAK",
     "producto":"FILTRO GASOLINA ATOS",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":5.76,
     "pvp":10
   },
   {
     "codigo":"319112D000SAAK",
     "producto":"FILTRO GASOLINA ELANTRA 2.0 Y 1.6",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":6.93,
     "pvp":12
   },
   {
     "codigo":"3111217000SAAK",
     "producto":"FILTRO GASOLINA HY MATRIX",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":9.59,
     "pvp":17
   },
   {
     "codigo":"3111207000KIA",
     "producto":"FILTRO GASOLINA HYUNDAI ATOS, KIA PICANT",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":10.48,
     "pvp":18
   },
   {
     "codigo":"311121C000MOB",
     "producto":"FILTRO GASOLINA HYUNDAI GETZ 1.3, 1.6",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.41,
     "pvp":15
   },
   {
     "codigo":"3197344001MOB",
     "producto":"FILTRO GASOLINA HYUNDAI H100 \/ KIA PREGI",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":3.78,
     "pvp":20
   },
   {
     "codigo":"311122B000MOB",
     "producto":"FILTRO GASOLINA HYUNDAI SANTA FE 2.7 07-",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":5.95,
     "pvp":20
   },
   {
     "codigo":"OK30A23480KIA",
     "producto":"FILTRO GASOLINA KIA RIO 1.5, CARENS",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":3.66,
     "pvp":7
   },
   {
     "codigo":"3191109000SAAK",
     "producto":"FILTRO GASOLINA SONATA 3.3 AZERA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":9.6,
     "pvp":20
   },
   {
     "codigo":"2435625000HYUND",
     "producto":"FILTRO OCV HYUNDAI H1 09",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":12.06,
     "pvp":21
   },
   {
     "codigo":"2832PROMASTER",
     "producto":"FILTRO PILA GASOLINA INTERNO UNIVERSAL 2",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":0.71,
     "pvp":3
   },
   {
     "codigo":"2312323000HYUND",
     "producto":"FLANCHE CIGUENAL TUCSON",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":14.07,
     "pvp":24
   },
   {
     "codigo":"944602D000",
     "producto":"FLOTADOR ELANTRA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":9.9,
     "pvp":20
   },
   {
     "codigo":"RA944602D001",
     "producto":"FLOTANTE DE ELANTRA DE 5 CABLES 01-07",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":5.83,
     "pvp":20
   },
   {
     "codigo":"944602F000MOB",
     "producto":"FLOTANTE DE GASOLINA KIA CERATO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":15.65,
     "pvp":27
   },
   {
     "codigo":"944602E000MOBIS",
     "producto":"FLOTANTE DE GASOLINA TUCSON",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":15.37,
     "pvp":27
   },
   {
     "codigo":"9446007101KOREA",
     "producto":"FLOTANTE GASOLINA KIA PICANTO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":14.47,
     "pvp":25
   },
   {
     "codigo":"Q0K30A60960PROM",
     "producto":"FLOTANTE GASOLINA KIA RIO STYLUS",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":11.36,
     "pvp":20
   },
   {
     "codigo":"944601C000MSEO",
     "producto":"FLOTANTE GASOLINA\/HY GETZ",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":12.47,
     "pvp":22
   },
   {
     "codigo":"QOK30A60960MHW",
     "producto":"FLOTANTE PARA KIA RIO STYLUS 1.5 ( CAJA",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":8.24,
     "pvp":20
   },
   {
     "codigo":"MGM014YBM",
     "producto":"GOMA BARRA ESTABILIZADORA ELANTRA-XD DEL",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":2.35,
     "pvp":6
   },
   {
     "codigo":"MGM015YBM",
     "producto":"GOMA BARRA ESTABILIZADORA HY GETZ",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":2.4,
     "pvp":6
   },
   {
     "codigo":"MGM013YBM",
     "producto":"GOMA BARRA ESTABILIZADORA HYUNDAI ACCENT",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":2.1,
     "pvp":6
   },
   {
     "codigo":"MGM035YBM",
     "producto":"GOMA BARRA ESTABILIZADORA HYUNDAI TUCSON",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":3.2,
     "pvp":6
   },
   {
     "codigo":"MGM036YBM",
     "producto":"GOMA BARRA ESTABILIZADORA HYUNDAI TUCSON",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":3.3,
     "pvp":6
   },
   {
     "codigo":"MGM016YBM",
     "producto":"GOMA BARRA ESTABILIZADORA KIA PICANTO",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":2.35,
     "pvp":6
   },
   {
     "codigo":"548132E100AME",
     "producto":"GOMA DE BARRA ESTABILIZADORA DELTUCSON S",
-    "existencia":6.0,
+    "Existencia":6.0,
     "costo":1.57,
     "pvp":6
   },
   {
     "codigo":"2222423500MHWUN",
     "producto":"GOMA DE VALVULAS PARA HYUNDAI ACCENT",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":0.14,
     "pvp":1
   },
   {
     "codigo":"2222435000GM",
     "producto":"GOMA VAL HYUNDAI H1 MIT L300 MF2.4 JGO 8",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":2.49,
     "pvp":10
   },
   {
     "codigo":"MD115472NOK",
     "producto":"GOMA VALVULA EXCEL PAQ8",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":2.1,
     "pvp":5
   },
   {
     "codigo":"OK30E10155POS",
     "producto":"GOMA VALVULA KIA RIO 1.5 PAQ16",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.37,
     "pvp":11
   },
   {
     "codigo":"OK30E10155KIA",
     "producto":"GOMAS DE VALVULAS KIA RIO STYLUS 1.5 (JG",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":2.74,
     "pvp":10
   },
   {
     "codigo":"MGCM061YBM",
     "producto":"GUARDAPOLVO TRIPOIDE L\/C HYUNDAI ACCENT",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.95,
     "pvp":6
   },
   {
     "codigo":"MGCM080YBM",
     "producto":"GUARDAPOLVO TRIPOIDE L\/C KIA PICANTO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.95,
     "pvp":6
   },
   {
     "codigo":"MGCM082YBM",
     "producto":"GUARDAPOLVO TRIPOIDE L\/C KIA RIO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.95,
     "pvp":6
   },
   {
     "codigo":"MGCM091YBM",
     "producto":"GUARDAPOLVO TRIPOIDE L\/R HYUNDAI ACCENT",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.95,
     "pvp":6
   },
   {
     "codigo":"MGCM23031YBM",
     "producto":"GUARDAPOLVO UNIV CAJETIN O ROTUL HUECO G",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.7,
     "pvp":8
   },
   {
     "codigo":"MGCM2305YBM",
     "producto":"GUARDAPOLVO UNIVERSAL AMORTIGUADOR CON T",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":4.4,
     "pvp":8
   },
   {
     "codigo":"MGCM2303YBM",
     "producto":"GUARDAPOLVO UNIVERSAL CAJETIN O ROTULA",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":2.7,
     "pvp":8
   },
   {
     "codigo":"OK30A41150RAO",
     "producto":"GUAYA CLUTCH RIO 1.5",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.14,
     "pvp":15
   },
   {
     "codigo":"OK30A41150DMIT",
     "producto":"GUAYA CLUTCH\/KI RIO M1.5 08-11",
-    "existencia":7.0,
+    "Existencia":7.0,
     "costo":4.46,
     "pvp":15
   },
   {
     "codigo":"4151024003DKIG",
     "producto":"GUAYA CROCHE EXCEL 1.3 1.5 92-00 141CM (",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":5.68,
     "pvp":15
   },
   {
     "codigo":"4151007120MORUC",
     "producto":"GUAYA CROCHE HYUNDAI ATOS, KIA PICANTO",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":8.17,
     "pvp":15
   },
   {
     "codigo":"4151002010ZAK",
     "producto":"GUAYA DE EMBRAGUE  ATOZ",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.68,
     "pvp":15
   },
   {
     "codigo":"OK75A46600CRAO",
     "producto":"GUAYA SELECTORA KIA PREGIO 3.0",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":28.56,
     "pvp":49
   },
   {
     "codigo":"OK72B46500BPM",
     "producto":"GUAYA SELECTORA KIA PREGIO LARGA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":22.7,
     "pvp":39
   },
   {
     "codigo":"437942E000ZAAK",
     "producto":"GUAYA SELECTORA TUCSON",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":15.14,
     "pvp":30
   },
   {
     "codigo":"4379422010MIT",
     "producto":"GUAYA SELECTORA\/HY ACCENT",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":15.9,
     "pvp":28
   },
   {
     "codigo":"4379407100SM",
     "producto":"GUAYAS DE CAMBIO KIA PICANTO(SINCRONICO)",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":15.85,
     "pvp":27
   },
   {
     "codigo":"4143022652PM",
     "producto":"HORQUILLA CROCHE GETZ BRISA 1.3 1.6",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":9.76,
     "pvp":20
   },
   {
     "codigo":"548301C000EDS",
     "producto":"HYUNDAI GETZ 1.3 \/ 1.6L - BARRA ESTABILI",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":3.27,
     "pvp":13
   },
   {
     "codigo":"3531023600AME",
     "producto":"INYECTOR DE GASOLIN HY ELANTR,SANT F,TUC",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":11.75,
     "pvp":25
   },
   {
     "codigo":"3531022060AME",
     "producto":"INYECTOR DE GASOLINA HYUNDAI ACCENT 1.3",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":11.75,
     "pvp":25
   },
   {
     "codigo":"OK30E13250AME",
     "producto":"INYECTOR DE GASOLINA KIA RIO 00-05",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":14.5,
     "pvp":25
   },
   {
     "codigo":"OK30E13250MOB",
     "producto":"INYECTOR GASOLINA KIA RIO STYLUS 1,5",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":8.47,
     "pvp":25
   },
   {
     "codigo":"MI07TIT",
     "producto":"J\/HOMO.HY\/ ATOS",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":16.98,
     "pvp":29
   },
   {
     "codigo":"2742023700AME",
     "producto":"JGO DE CABLE BUJIA HY ELANTR XD CERATO",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":8.37,
     "pvp":20
   },
   {
     "codigo":"2750123B70AME",
     "producto":"JGO DE CABLE BUJIA PARA ELANT,TUCSON,CER",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":8.99,
     "pvp":16
   },
   {
     "codigo":"230403C100AZ",
     "producto":"JGO. ANILLO SONATA 3.3 STD AZTEC",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":45.1,
     "pvp":77
   },
   {
     "codigo":"2304038200SEO",
     "producto":"JGO. ANILLO STD H1 07 SEONG",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":21.31,
     "pvp":50
   },
   {
     "codigo":"230404Z910SEO",
     "producto":"JGO. ANILLOS PREGIO 3.0 SEONG",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":28.0,
     "pvp":60
   },
   {
     "codigo":"OK75B18140SEO",
     "producto":"JGO. BUJIA KIA PREGIO 3.0 SEONG",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":10.5,
     "pvp":20
   },
   {
     "codigo":"OK75A10311BSE",
     "producto":"JGO. CAMISA KIA PREGIO 3.0 SEONG",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":125.85,
     "pvp":214
   },
   {
     "codigo":"2102038910GMP",
     "producto":"JGO. CONCHA BANCADA 0,25 H1 2007 CORREA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":22.95,
     "pvp":40
   },
   {
     "codigo":"2102022960SEONG",
     "producto":"JGO. CONCHA BANCADA ACC\/GETZ 0.10 (0.25)",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":15.43,
     "pvp":27
   },
   {
     "codigo":"210202G100GMP",
     "producto":"JGO. CONCHA BANCADA H1 09 STD",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":21.5,
     "pvp":37
   },
   {
     "codigo":"OK6Z211SH0SEO",
     "producto":"JGO. CONCHA BANCADA PREGIO 0.10(0.2",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":8.76,
     "pvp":25
   },
   {
     "codigo":"2306038902GMP",
     "producto":"JGO. CONCHA BIELA  0.25 H1 2007 CORREA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":15.7,
     "pvp":27
   },
   {
     "codigo":"230602B913GMP",
     "producto":"JGO. CONCHA BIELA 0,25 CERATO 1,6",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":15.42,
     "pvp":27
   },
   {
     "codigo":"2306022952EAC",
     "producto":"JGO. CONCHA BIELA ACCENT\/GETZ 0.20 (0,50",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":10.75,
     "pvp":19
   },
   {
     "codigo":"OVNY11SF0SEO",
     "producto":"JGO. CONCHA BIELA PREGIO 0.10(0.25)",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":5.05,
     "pvp":20
   },
   {
     "codigo":"OVNY111SFXGMP",
     "producto":"JGO. CONCHA BIELA PREGIO 0.20",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":11.63,
     "pvp":20
   },
   {
     "codigo":"230602G101GMP",
     "producto":"JGO. CONCHA BIELA STD H1 09 CADENA\/NEW C",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":12.58,
     "pvp":25
   },
   {
     "codigo":"2306038200GMP",
     "producto":"JGO. CONCHA BIELA STD H1 2007 CORREA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":14.5,
     "pvp":25
   },
   {
     "codigo":"OK6A110155SEO",
     "producto":"JGO. GOMA VALVULA KIA PREGIO SEONG",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":4.82,
     "pvp":10
   },
   {
     "codigo":"OK7Z111SA0SEO",
     "producto":"JGO. PISTON KIA PREGIO 3.0 SEONG",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":102.96,
     "pvp":176
   },
   {
     "codigo":"210303E000KFM",
     "producto":"JGO. SEPARADOR AXIAL SANTA FE 2.7 STD",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":13.45,
     "pvp":23
   },
   {
     "codigo":"2304026160020NP",
     "producto":"JUEGO DE ANILLOS GETZ\/ELANTRA 1.6 76.5MM",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":13.42,
     "pvp":25
   },
   {
     "codigo":"209103CB00HYUND",
     "producto":"JUEGO DE EMPACADURADURA HY SONATA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":18.65,
     "pvp":80
   },
   {
     "codigo":"2091026E00TP",
     "producto":"JUEGO DE EMPACADURAS COMPLETO GETZ 1.6",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":13.42,
     "pvp":23
   },
   {
     "codigo":"2222423500MHW",
     "producto":"JUEGO DE GORRO VALVULA HYUNDAI ACCENT \/G",
-    "existencia":8.0,
+    "Existencia":8.0,
     "costo":1.72,
     "pvp":5
   },
   {
     "codigo":"0K2C010270CSGG",
     "producto":"JUEGO EMPACADURA COMPLETO CARENS 1.8\/SHU",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":65.5,
     "pvp":112
   },
   {
     "codigo":"2091022N10HYUND",
     "producto":"JUEGO EMPACADURA MOTOR COMPLET ACCENT1.5",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":14.99,
     "pvp":35
   },
   {
     "codigo":"2091037A00NATZU",
     "producto":"JUEGO EMPAQUE HY G6BA SONATA 2.5L SANTA",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":56.72,
     "pvp":100
   },
   {
     "codigo":"23410223600.5CA",
     "producto":"JUEGO PISTONES ACCENT\/1.3-0.50",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":43.24,
     "pvp":74
   },
   {
     "codigo":"23410224600.75C",
     "producto":"JUEGO PISTONES ACCENT\/1.5-0.75",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":43.08,
     "pvp":74
   },
   {
     "codigo":"2341026502HYUND",
     "producto":"JUEGO PISTONES HY GETZ 1.6 +0.75=0.30",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":38.53,
     "pvp":66
   },
   {
     "codigo":"2341002840050CA",
     "producto":"JUEGO PISTONES PICANTOS 1.1 0.50",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":40.82,
     "pvp":70
   },
   {
     "codigo":"210303C100DONG",
     "producto":"JUEGO SEPARADOR AXIAL STD SONATA 3.3",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":10.24,
     "pvp":20
   },
   {
     "codigo":"C432ZTUPONP",
     "producto":"KIT CADENA DE TIEMPO H1 08-09",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":59.72,
     "pvp":102
   },
   {
     "codigo":"2441038001HYUND",
     "producto":"KIT CORREA DE TIEMPO H1 2007, 175 DIENT",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":63.13,
     "pvp":108
   },
   {
     "codigo":"248403E500KTOP",
     "producto":"KIT CORREA DE TIEMPO HYUNDAI SANTA FE 2.",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":67.89,
     "pvp":140
   },
   {
     "codigo":"TK220EDS",
     "producto":"KIT CORREA TIEMPO KIA SEPHIA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":28.62,
     "pvp":80
   },
   {
     "codigo":"HDK101COLLARIN",
     "producto":"KIT CROCHE HYUNDAI GETZ 1.3 -1.6",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.0,
     "pvp":11
   },
   {
     "codigo":"HDK110VAL",
     "producto":"KIT CROCHE HYUNDAI TUCSON \/ SPORTAGE",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":94.62,
     "pvp":161
   },
   {
     "codigo":"0420017TECNIP",
     "producto":"KIT DE  INYENCTOR KIA Y HYUNDAI",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":3.3,
     "pvp":10
   },
   {
     "codigo":"KT200TIMING",
     "producto":"KIT DE TIEMPO TUCSON 2.0,KIA SPORT ELAN",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":31.68,
     "pvp":80
   },
   {
     "codigo":"4130022710WARRE",
     "producto":"KIT EMBRAGUE GETZ 215MM",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":62.13,
     "pvp":106
   },
   {
     "codigo":"209103CB00MOB",
     "producto":"KIT EMPACADURA HYUNDAI SANTA FE 3.3, SON",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":59.77,
     "pvp":102
   },
   {
     "codigo":"OK75A10270MOB",
     "producto":"KIT EMPACADURA KIA PREGIO 3.0",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":21.15,
     "pvp":36
   },
   {
     "codigo":"OK30E10270HYUND",
     "producto":"KIT EMPACADURA KIA RIO STYLUS 1.5 (OK30E",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":29.59,
     "pvp":51
   },
   {
     "codigo":"KITGUIA27SEONG",
     "producto":"KIT GUIAS CADENA (INF Y SUP)SPORTAGE 2.7",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":37.49,
     "pvp":64
   },
   {
     "codigo":"0431360050HYUN",
     "producto":"KIT REPARACION BOMBIN INFERIOR HYUNDAI T",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.72,
     "pvp":5
   },
   {
     "codigo":"54820FD000EDS",
     "producto":"LAPIZ BARRA ESTABILIZADOR KIA RIO STY IZ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":4.53,
     "pvp":13
   },
   {
     "codigo":"5553029000DKIG",
     "producto":"LAPIZ ESTAB. TRAS.ELANTRA XD DER 1.6 2.0",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":5.25,
     "pvp":13
   },
   {
     "codigo":"548301C000MHW",
     "producto":"LAPIZ ESTABILIZADOR LEFT\/IZQUIERDO GETZ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.44,
     "pvp":13
   },
   {
     "codigo":"548401C000MHW",
     "producto":"LAPIZ ESTABILIZADOR RIGHT\/DERECHO GETZ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.44,
     "pvp":13
   },
   {
     "codigo":"548302G000EDS",
     "producto":"LAPIZ-BIELETA TUCSON 2.0 \/ KIA SPORT 2.0",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.05,
     "pvp":13
   },
   {
     "codigo":"555302E000GVD",
     "producto":"LINK BARRA ESTABILIZADORATRAS TUCSON SPO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":5.02,
     "pvp":13
   },
   {
     "codigo":"2548023001MHW",
     "producto":"MANGUERA CODO HY TUCSON\/ ELANTRA\/ SPORTA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.51,
     "pvp":10
   },
   {
     "codigo":"2541222010AME",
     "producto":"MANGUERA INF. DE RADIADOR HYUNDAI ACCENT",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":4.84,
     "pvp":15
   },
   {
     "codigo":"254122E200MHW",
     "producto":"MANGUERA INFERIOR DE RADIADOR TUCSON,SPO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":6.07,
     "pvp":15
   },
   {
     "codigo":"254121C200NEUTR",
     "producto":"MANGUERA INFERIOR RADIADOR HYUNDAI GETZ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.25,
     "pvp":15
   },
   {
     "codigo":"MGM307RINDOMAX",
     "producto":"MANGUERA SUP RAD SANTA FE 2.7 2006\/09",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.47,
     "pvp":13
   },
   {
     "codigo":"254112D100AME",
     "producto":"MANGUERA SUP. DE RADIADOR HYUNDAI",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":3.4,
     "pvp":15
   },
   {
     "codigo":"2541122010AME",
     "producto":"MANGUERA SUP. DE RADIADOR HYUNDAI ACCENT",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":3.6,
     "pvp":15
   },
   {
     "codigo":"2541122010MHW",
     "producto":"MANGUERA SUPERIOR DE RADIADOR HY ACCENT",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.12,
     "pvp":15
   },
   {
     "codigo":"254112D150MHW",
     "producto":"MANGUERA SUPERIOR DE RADIADOR HYUNDAI EL",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":2.7,
     "pvp":15
   },
   {
     "codigo":"254112E101NEUTR",
     "producto":"MANGUERA SUPERIOR PARA TUCSON \/SPORTAGE",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":6.95,
     "pvp":20
   },
   {
     "codigo":"254111C200NEUTR",
     "producto":"MANGUERA SUPERIOR RADIADOR HYUNDAI GETZ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":4.0,
     "pvp":15
   },
   {
     "codigo":"075649DKIG",
     "producto":"MANILLA ACCENT BRISA1.3 1.5 EXT.TRAS DER",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":4.51,
     "pvp":10
   },
   {
     "codigo":"075650DKIG",
     "producto":"MANILLA ACCENT BRISA1.3 1.5 EXT.TRAS IZQ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":4.51,
     "pvp":10
   },
   {
     "codigo":"075609DKIG",
     "producto":"MANILLA ACCENT1.3 1.5 95-06 DEL-TRAS.DER",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.32,
     "pvp":10
   },
   {
     "codigo":"075610DKIG",
     "producto":"MANILLA ACCENT1.3 1.5 95-06 DEL-TRAS.IZQ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.32,
     "pvp":10
   },
   {
     "codigo":"075653DKIG",
     "producto":"MANILLA ELANTRA XD1.6 2.0INT.DE TRAS IZQ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":3.57,
     "pvp":10
   },
   {
     "codigo":"075654DKIG",
     "producto":"MANILLA ELANTRAXD1.6 2.0INT.DEL TRAS DER",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":3.57,
     "pvp":10
   },
   {
     "codigo":2455202200,
     "producto":"MARTILLOS ESCAPE ATOZ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":9.52,
     "pvp":17
   },
   {
     "codigo":"545012D000AME",
     "producto":"MESETA INF. DEL. DER. HYUNDAI ELANTRA (0",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":27.75,
     "pvp":48
   },
   {
     "codigo":"545012E000AME",
     "producto":"MESETA INF. DEL. DER. HYUNDAI TUCSON",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":32.0,
     "pvp":60
   },
   {
     "codigo":"545002D000AME",
     "producto":"MESETA INF. DEL. IZQ. HYUNDAI ELANTRA TO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":27.2,
     "pvp":47
   },
   {
     "codigo":"545002E000AME",
     "producto":"MESETA INF. DEL. IZQ. HYUNDAI TUCSON",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":32.0,
     "pvp":60
   },
   {
     "codigo":"545001C000MOB",
     "producto":"MESETA IZQUIERDA HYUNDAI GETZ \/ BRISA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":26.42,
     "pvp":50
   },
   {
     "codigo":"54501FD000EDS",
     "producto":"MESETA KIA RIO STYLUS 1.5 - (DER)",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":23.91,
     "pvp":41
   },
   {
     "codigo":"54500FD000EDS",
     "producto":"MESETA KIA RIO STYLUS 1.5 - (IZQ)",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":23.91,
     "pvp":41
   },
   {
     "codigo":"311102D000AME",
     "producto":"MODULO COMPLETO D GASOLINA ELANTR1.6 2.0",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":51.56,
     "pvp":88
   },
   {
     "codigo":"311101C000AME",
     "producto":"MODULO COMPLETO DE GASOLINA HY GETZ 1.3",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":51.56,
     "pvp":88
   },
   {
     "codigo":"311102B000AME",
     "producto":"MODULO COMPLETO DE GASOLINA HYUNDAI SANT",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":47.12,
     "pvp":100
   },
   {
     "codigo":"311102E300AME",
     "producto":"MODULO COMPLETO DE GASOLINA HYUNDAI TUCS",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":45.0,
     "pvp":100
   },
   {
     "codigo":"OK30A1335ZBAME",
     "producto":"MODULO COMPLETO DE GASOLINA KIA RIO, STY",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":45.0,
     "pvp":90
   },
   {
     "codigo":"517502D000TRM",
     "producto":"MOZO CON RODAMIENTO ELANTRA DEL 05\/12",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":19.51,
     "pvp":50
   },
   {
     "codigo":"527102E100MHW",
     "producto":"MOZO CUBO RUEDA TRAS TUCSON\/SPORTAG",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":30.24,
     "pvp":52
   },
   {
     "codigo":"5175024500CAP",
     "producto":"MOZO DELANTERO ACCENT\/EXCEL",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":24.02,
     "pvp":41
   },
   {
     "codigo":"517503A003CAP",
     "producto":"MOZO DELANTERO TUCSON\/SPORTAGE",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":21.8,
     "pvp":38
   },
   {
     "codigo":"527102D000KBC",
     "producto":"MOZO TRASERO ELANTRA XD CON ABS",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":46.63,
     "pvp":80
   },
   {
     "codigo":"5450322A00SEONG",
     "producto":"MUNON ACCENT\/GETZ\/ELAN SEONG",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":11.44,
     "pvp":20
   },
   {
     "codigo":"5450322A00MOB",
     "producto":"MUNON HYUNDAI GETZ, ELANTRA, ACCENT",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":7.88,
     "pvp":14
   },
   {
     "codigo":"5176038000EEP",
     "producto":"MUNON INF. HYUNDAI SONATA 2.5, KIA OPTIM",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":8.0,
     "pvp":20
   },
   {
     "codigo":"544174AA00KP",
     "producto":"MUNON SUP HYUNDAI H1 07",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":13.45,
     "pvp":23
   },
   {
     "codigo":"5453002000IHVSV",
     "producto":"MUÑON  HYUNDAI ATOS",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":5.22,
     "pvp":13
   },
   {
     "codigo":"TVAK90375",
     "producto":"MUÑON HYUNDAI SANTA FE 01\/15 INF",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":10.44,
     "pvp":20
   },
   {
     "codigo":"TVAK500035",
     "producto":"MUÑON HYUNDAI SONATA 06\/10 3.3 AZERA 06\/",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":12.68,
     "pvp":22
   },
   {
     "codigo":"TVAK500239",
     "producto":"MUÑON HYUNDAI TUCSON 10\/17 SANTA FE 13\/1",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":19.34,
     "pvp":33
   },
   {
     "codigo":"517602E000TRM",
     "producto":"MUÑON HYUNDAI TUCSON\/SPORTAGE 06\/13",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.4,
     "pvp":15
   },
   {
     "codigo":"5450331600AME",
     "producto":"MUÑON INF HY GETZ, ACCENT1.3-1.5,ELAN,SO",
-    "existencia":5.0,
+    "Existencia":5.0,
     "costo":5.41,
     "pvp":13
   },
   {
     "codigo":"5453024000AME",
     "producto":"MUÑON INF. DEL. HYUNDAI ELANTRA (90-96)",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.67,
     "pvp":15
   },
   {
     "codigo":"5453024A00555",
     "producto":"MUÑON INF. DEL. HYUNDAI EXCEL (94-97)",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.7,
     "pvp":13
   },
   {
     "codigo":"545304A000AME",
     "producto":"MUÑON INF. HYUNDAI H100\/H1",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":13.53,
     "pvp":24
   },
   {
     "codigo":"5176038000AME",
     "producto":"MUÑON INF. HYUNDAI SONATA 2.5, KIA OPTIM",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":9.0,
     "pvp":20
   },
   {
     "codigo":"517603K000AME",
     "producto":"MUÑON INF. HYUNDAI SONATA 3.3",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":8.4,
     "pvp":20
   },
   {
     "codigo":"TVAK500015",
     "producto":"MUÑON KIA RIO 05\/11 HYUNDAI ACCENT 06\/11",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":11.39,
     "pvp":20
   },
   {
     "codigo":"OK72A34510ADKIG",
     "producto":"MUÑON PREGIO 2.7 3.0 DIESEL INF. (0K72A3",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.88,
     "pvp":20
   },
   {
     "codigo":"9248386MHW",
     "producto":"P.F DELANTERA HYUNDAI TUCSON\/ SPORTAGE\/",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":12.88,
     "pvp":22
   },
   {
     "codigo":"SP1164MHW",
     "producto":"P.F DELANTERA KIA RIO STYLUS (CAJA COLOR",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":9.11,
     "pvp":20
   },
   {
     "codigo":"MZ024F2TVA",
     "producto":"P\/TRIPOIDE  KIA PICANTO\/FORD FESTIVA SIN",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":21.04,
     "pvp":36
   },
   {
     "codigo":"HY820TRM",
     "producto":"P\/TRIPOIDE HY TUCSON (C\/ABS 48D) 23*27*6",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":22.87,
     "pvp":40
   },
   {
     "codigo":"MI004TVA",
     "producto":"P\/TRIPOIDE HYUNDAI ELANTRA 1.6 SINC.2000",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":30.41,
     "pvp":52
   },
   {
     "codigo":"HY203ATVA",
     "producto":"P\/TRIPOIDE HYUNDAI SANTA FE V6 06\/10 VER",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":32.84,
     "pvp":56
   },
   {
     "codigo":"HY1001TVA",
     "producto":"P\/TRIPOIDE HYUNDAI SONATA 08\/09 SANTA FE",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":33.56,
     "pvp":58
   },
   {
     "codigo":"MZ812TVA",
     "producto":"P\/TRIPOIDE KIA CARENS CARNIVAL 24X28",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":26.42,
     "pvp":50
   },
   {
     "codigo":"MZ004TVA",
     "producto":"P\/TRIPOIDE KIA RIO 1.3 01\/05 MAZDA 323 F",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":21.42,
     "pvp":37
   },
   {
     "codigo":"7376AME",
     "producto":"PASTILLA DE FRENO DEL EXCEL ACCENT GETZ",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":8.78,
     "pvp":15
   },
   {
     "codigo":"7739D864AME",
     "producto":"PASTILLA DE FRENO DEL. HYUNDAI SANTA FE",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":10.25,
     "pvp":25
   },
   {
     "codigo":"8724D1515AME",
     "producto":"PASTILLA DE FRENO DEL. KIA RIO, STYLUS (",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":8.74,
     "pvp":20
   },
   {
     "codigo":"D9247825OC",
     "producto":"PASTILLA DE FRENO TUCSON SPORTAGE",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":12.14,
     "pvp":21
   },
   {
     "codigo":"MD1444NEW",
     "producto":"PASTILLA FRENO DEL. SONATA 2.4 OPTIM",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":18.66,
     "pvp":32
   },
   {
     "codigo":"D9417843TUP",
     "producto":"PASTILLAS DE FRENOS DEL HY ELANTRA 1.6",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":13.54,
     "pvp":24
   },
   {
     "codigo":"D4027291FESTT",
     "producto":"PASTILLAS FRENO DELANTERAS FESTIVA TURPI",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.5,
     "pvp":20
   },
   {
     "codigo":"MD11428253HENGT",
     "producto":"PASTILLAS FRENOS DELANTERA ATOS",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.31,
     "pvp":15
   },
   {
     "codigo":1951319351,
     "producto":"PILA DE GASOLINA DENSO UNIVERSAL",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":9.0,
     "pvp":20
   },
   {
     "codigo":"2312002570MORRI",
     "producto":"PIÑON CIGUEÑAL PICANTO - ATOS",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":11.5,
     "pvp":20
   },
   {
     "codigo":"4651239700SEONG",
     "producto":"PIÑÓN KILOMETRAJE SANTA FE\/SONATA SEONG",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":14.5,
     "pvp":25
   },
   {
     "codigo":"2341002840HYUND",
     "producto":"PISTON PICANTO ATOS 1.1 04-10 0.50-020 (",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":37.98,
     "pvp":65
   },
   {
     "codigo":"252863C100HDE",
     "producto":"POLEA CORREA UNICA SONATA 3.3 SORENTO 3.",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":10.47,
     "pvp":30
   },
   {
     "codigo":"2312422020CAP",
     "producto":"POLEA DAMPER ACCENT 1.3\/1.5",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":29.29,
     "pvp":50
   },
   {
     "codigo":"2312424010ZET",
     "producto":"POLEA DE CIGUENAL - DAMPER MITSUBISHI LA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":36.0,
     "pvp":62
   },
   {
     "codigo":"2312426030AME",
     "producto":"POLEA DE CIGUEÑAL HYUNDAI GETZ, ACCENT,",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":36.0,
     "pvp":62
   },
   {
     "codigo":"532030710INA",
     "producto":"POLEA DE TIEMPO TUCSON,SPORT,ELAN1.8\/2.0",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":7.74,
     "pvp":20
   },
   {
     "codigo":"2441028002HIGHQ",
     "producto":"POLEA LOCA GETZ\/ELANTRA 1.6",
-    "existencia":6.0,
+    "Existencia":6.0,
     "costo":7.63,
     "pvp":13
   },
   {
     "codigo":"GT20060GENUINEP",
     "producto":"POLEA LOCA KIA RIO 1.5",
-    "existencia":6.0,
+    "Existencia":6.0,
     "costo":8.62,
     "pvp":15
   },
   {
     "codigo":"9770422100KFL",
     "producto":"POLEA TEN A\/A HY TUCSON ACCENT GETZ ELAN",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":12.07,
     "pvp":30
   },
   {
     "codigo":"9783429010PMC",
     "producto":"POLEA TENSORA A\/A TUCSON\/XD PSA-C015",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":13.75,
     "pvp":30
   },
   {
     "codigo":"2445038010HSC",
     "producto":"POLEA TENSORA D CORREA D TIEMPO STARX H1",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":15.35,
     "pvp":35
   },
   {
     "codigo":"2335738001HSC",
     "producto":"POLEA TENSORA DE CORREA DE TIEMPO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":12.0,
     "pvp":35
   },
   {
     "codigo":"2481037120AME",
     "producto":"POLEA TENSORA KIA SPORTAGE 2.7 SONATA,SA",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":10.47,
     "pvp":18
   },
   {
     "codigo":"2481023011HK",
     "producto":"POLEA TIEMPO ELANTRA",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.92,
     "pvp":20
   },
   {
     "codigo":"2144122610HYUND",
     "producto":"PORTA ESTOPERA TRASERA GETZ 1.6 \/ELAN 1.",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":20.1,
     "pvp":35
   },
   {
     "codigo":"51716FD000HD",
     "producto":"PORTAMOSO CUBO D RUEDA KIA RIO STYLUS IZ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":38.98,
     "pvp":80
   },
   {
     "codigo":"485752E000GVD",
     "producto":"PUENTE CARDAN TUCSON",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":27.39,
     "pvp":47
   },
   {
     "codigo":"HY100KAP",
     "producto":"PUNTA D TRIPOIDE HY ACCENT,GETZ,22*25*50",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":20.82,
     "pvp":36
   },
   {
     "codigo":"RAMI007A",
     "producto":"PUNTA DE TRIPOIDE ELANTRA 06-12",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":26.39,
     "pvp":45
   },
   {
     "codigo":"MZ023KAP",
     "producto":"PUNTA DE TRIPOIDE FORD FESTIVA AUT (93)",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":19.0,
     "pvp":33
   },
   {
     "codigo":"FD106F2EDS",
     "producto":"PUNTA DE TRIPOIDE LASER 00-06 (26X28)",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":21.72,
     "pvp":37
   },
   {
     "codigo":"MI162ATUP",
     "producto":"PUNTA TRIPOIDE HYUNDAI TUCSON (06-UP) AU",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":20.89,
     "pvp":36
   },
   {
     "codigo":"253102E400AMEPA",
     "producto":"RADIADOR HYUNDAI TUCSON 2.0\/KIA SPORTAGE",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":82.49,
     "pvp":170
   },
   {
     "codigo":"373704Z210PM",
     "producto":"REGULADOR ALTERNADOR PREGIO 3.0",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":19.85,
     "pvp":34
   },
   {
     "codigo":"PR4175CLIPSE",
     "producto":"REGULADOR DE GASOLINA HYU. GETZ\/ELANTRA\/",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":12.44,
     "pvp":22
   },
   {
     "codigo":"DDT26078AME",
     "producto":"REGULADOR DE PRESIÓN D GASOLINA H1,CAREN",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.51,
     "pvp":20
   },
   {
     "codigo":"3530107000AME",
     "producto":"REGULADOR DE PRESION DE GASOLINA KIA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":7.8,
     "pvp":20
   },
   {
     "codigo":"3530125000AME",
     "producto":"REGULADOR DE PRESION DE GASOLINA SANTA F",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":7.98,
     "pvp":14
   },
   {
     "codigo":"313802E000MOB",
     "producto":"REGULADOR PRESION GASOLINA HYUNDAI TUCSO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":10.65,
     "pvp":20
   },
   {
     "codigo":"38KW01NSK",
     "producto":"ROD. DELT. HYUNDAY ACCENT \/ EXCEL 38.1*6",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.44,
     "pvp":8
   },
   {
     "codigo":"5172038110HYUN",
     "producto":"RODAMIENTO  TUCSON\/SANTA FE\/SPORTAGE\/SON",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":9.78,
     "pvp":17
   },
   {
     "codigo":"4322328530ICHIB",
     "producto":"RODAMIENTO DE EJE TRS. 2DA CAJA SINC KIA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":3.5,
     "pvp":15
   },
   {
     "codigo":"SET2AME",
     "producto":"RODAMIENTO DE RUEDA TRS. KIA RIO 1.5 STY",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":1.6,
     "pvp":6
   },
   {
     "codigo":"DAC39743436KBC",
     "producto":"RODAMIENTO DELANTERO ELANTRA XD",
-    "existencia":9.0,
+    "Existencia":9.0,
     "costo":7.61,
     "pvp":20
   },
   {
     "codigo":"DAC397436\/34KOY",
     "producto":"RODAMIENTO DELANTERO GETZ 1.3",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.54,
     "pvp":13
   },
   {
     "codigo":"RA5172038110",
     "producto":"RODAMIENTO DELANTERO TUCSON\/SANTA FE\/SON",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":12.13,
     "pvp":25
   },
   {
     "codigo":"0031733075HYUND",
     "producto":"RODAMIENTO RIO LS\/RIO STYLUS TRASERO EXT",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":2.31,
     "pvp":6
   },
   {
     "codigo":"5171026500MOB",
     "producto":"RODAMIENTO TRASERO HYUNDAI TUCSON, KIA S",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":14.15,
     "pvp":25
   },
   {
     "codigo":"LM11749>44649KB",
     "producto":"RODAMIENTO TRASERO INT+EXT FESTIVA\/TURPI",
-    "existencia":12.0,
+    "Existencia":12.0,
     "costo":3.24,
     "pvp":12
   },
   {
     "codigo":"52720F000YUND",
     "producto":"RODAMIENTO TUCSON\/SANTA FE\/SPORTAGE TRAS",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":9.18,
     "pvp":20
   },
   {
     "codigo":"DAC40803634KOYO",
     "producto":"ROLINERA DEL. SONATA MF MX GALANT 2.0 EC",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":11.19,
     "pvp":25
   },
   {
     "codigo":"JL69349\/10KBC",
     "producto":"ROLINERA DELT FESTIVA\/KIA RIO",
-    "existencia":12.0,
+    "Existencia":12.0,
     "costo":4.39,
     "pvp":8
   },
   {
     "codigo":"DAC458439\/41KBC",
     "producto":"ROLINERA DELT TUCSON\/SPORTAGE 2.0",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":14.96,
     "pvp":26
   },
   {
     "codigo":"LM11949\/11910HD",
     "producto":"ROLINERA RUEDA TRASERA TURPIAL RIO STYLU",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":2.29,
     "pvp":6
   },
   {
     "codigo":"5772407100IHVSV",
     "producto":"ROTULA DE DIRECCION  PICANTO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":6.42,
     "pvp":15
   },
   {
     "codigo":"577242D000AME",
     "producto":"ROTULA DE DIRECCION HYUNDAI ELANTRA XD ,",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":6.77,
     "pvp":15
   },
   {
     "codigo":"5778526200AME",
     "producto":"ROTULA DE DIRECCION HYUNDAI SANTA FE GOL",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":6.49,
     "pvp":15
   },
   {
     "codigo":"TVAHYAX0009",
     "producto":"ROTULA HYUNDAI ATOS TODOS",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":15.06,
     "pvp":26
   },
   {
     "codigo":"577242D000TRM",
     "producto":"ROTULA HYUNDAI ELANTRA XD 00\/12",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.62,
     "pvp":13
   },
   {
     "codigo":"TVAEV800231",
     "producto":"ROTULA HYUNDAI SANTA FE 08\/10",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":10.9,
     "pvp":19
   },
   {
     "codigo":"TVAEV800345",
     "producto":"ROTULA HYUNDAI SONATA 05\/10",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":9.96,
     "pvp":17
   },
   {
     "codigo":"577242E000TRM",
     "producto":"ROTULA HYUNDAI TUCSON",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":6.4,
     "pvp":13
   },
   {
     "codigo":"5772407000CAP",
     "producto":"ROTULA KIA PICANTO",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.67,
     "pvp":13
   },
   {
     "codigo":"OK72A32270MOB",
     "producto":"ROTULA KIA PREGIO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.93,
     "pvp":15
   },
   {
     "codigo":"KDX5032240TRM",
     "producto":"ROTULA KIA RIO STILUS",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":6.13,
     "pvp":13
   },
   {
     "codigo":"KDX5032240CAP",
     "producto":"ROTULA KIA RIO STYLUS",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":6.96,
     "pvp":13
   },
   {
     "codigo":"577241E000MHW",
     "producto":"ROTULA R-L\/DERECHO-IZQUIERDO HYUNDAI\/KIA",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":6.91,
     "pvp":13
   },
   {
     "codigo":"577242B000CAP",
     "producto":"ROTULA SANTA FE\/SORENTO\/OPTIMO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.84,
     "pvp":15
   },
   {
     "codigo":"3921037543SEONG",
     "producto":"SENSOR DE OXIGENO LH KIA SPORTAGE 2.7 SE",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":37.03,
     "pvp":63
   },
   {
     "codigo":"3931038050APK",
     "producto":"SENSOR DE POSICION DE LEVA HYUNDAI ATOS",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":14.73,
     "pvp":26
   },
   {
     "codigo":"RA8353060040",
     "producto":"SENSOR DE PRESION DE ACEITE  (VARIOS MOD",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":1.7,
     "pvp":5
   },
   {
     "codigo":"0K2A217400APK",
     "producto":"SENSOR DISTANCIA KILOMETRAJE RIO STY CAR",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":29.1,
     "pvp":50
   },
   {
     "codigo":"4651739500KOREA",
     "producto":"SENSOR DISTANCIA TUCSON\/SPORT,ELAN,SANT",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":43.66,
     "pvp":75
   },
   {
     "codigo":"3515022600MHW",
     "producto":"SENSOR IAC MINIMO GETZ 1.3 1.6 PICANTO A",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":14.73,
     "pvp":30
   },
   {
     "codigo":"3515023700MHW",
     "producto":"SENSOR IAC MINIMO TUCSON SPORTAGE ELANTR",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":22.12,
     "pvp":38
   },
   {
     "codigo":"393503E110FIVES",
     "producto":"SENSOR LEVA SANTA FE 2.7 07-10 SL3110",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":15.94,
     "pvp":28
   },
   {
     "codigo":"3935023500HYUN",
     "producto":"SENSOR LEVA TUCSON ELANTRA SPORTAGE 2.0.",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":12.03,
     "pvp":21
   },
   {
     "codigo":"938102E000OEM",
     "producto":"SENSOR LUZ STOP T\/M TUC\/GTZ\/ELAN\/SPTG",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":9.17,
     "pvp":16
   },
   {
     "codigo":"2816437200SALJO",
     "producto":"SENSOR MAF SPORTAG OPTIMA SONAT SANTA2.7",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":37.75,
     "pvp":65
   },
   {
     "codigo":"393002B000DIAM",
     "producto":"SENSOR MAP ACCENT 10\/~\/ELANTRA\/I10\/I20\/I",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.63,
     "pvp":20
   },
   {
     "codigo":"3930022600HYUND",
     "producto":"SENSOR MAP ELANTRA \/ TUCSON",
-    "existencia":6.0,
+    "Existencia":6.0,
     "costo":9.83,
     "pvp":20
   },
   {
     "codigo":"3930022600MHW",
     "producto":"SENSOR MAP HYUNDAI TUCSON, ELANTRA, GETZ",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.02,
     "pvp":20
   },
   {
     "codigo":"3921002640SALJO",
     "producto":"SENSOR OXIGENO ATOS\/GETZ \/KIA PICANTO 0S",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":22.97,
     "pvp":45
   },
   {
     "codigo":"3921022610BOSCH",
     "producto":"SENSOR OXIGENO HYU GETZ 1.6 ELAN 1.6",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":25.73,
     "pvp":45
   },
   {
     "codigo":"3921023500BOSCH",
     "producto":"SENSOR OXIGENO HYU TUCSON,ELAN 2.0,KIA S",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":25.73,
     "pvp":50
   },
   {
     "codigo":"4595628010AME",
     "producto":"SENSOR PARE NEUTRO HYUNDAI GEZT ACCENT E",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":31.04,
     "pvp":53
   },
   {
     "codigo":"3918022060HYUND",
     "producto":"SENSOR POS CIG HYUNDAI GETZ 1.3 ACCENT 1",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":7.74,
     "pvp":20
   },
   {
     "codigo":"3918022090HYUND",
     "producto":"SENSOR POS CIGUEÑAL ACCENT",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.69,
     "pvp":20
   },
   {
     "codigo":"3935023500HYUND",
     "producto":"SENSOR POS LEVA ELANTRA 1.8 TUCSON SPORT",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":12.03,
     "pvp":21
   },
   {
     "codigo":"3935022600HYU",
     "producto":"SENSOR POSICION ARBOL LEVA HYUNDAI GETZ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.54,
     "pvp":20
   },
   {
     "codigo":"3935022600MOB",
     "producto":"SENSOR POSICION ARBOL LEVA HYUNDAI GETZ",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.43,
     "pvp":20
   },
   {
     "codigo":"K3925023500HYUN",
     "producto":"SENSOR POSICION CIG TUCSON \/ ELANTRA \/SP",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":10.23,
     "pvp":20
   },
   {
     "codigo":"3918037150SEO",
     "producto":"SENSOR POSICION CIGUENAL SPORTAGE 2",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":15.19,
     "pvp":26
   },
   {
     "codigo":"OK30A18891KOREA",
     "producto":"SENSOR POSICION CIGUEÑAL RIO STYLUS 1.5\/",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":7.33,
     "pvp":20
   },
   {
     "codigo":"3935022040HYUN",
     "producto":"SENSOR POSICION LEVA ACCENT 1.3\/1.5 ** N",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":8.95,
     "pvp":20
   },
   {
     "codigo":"KKY0166490EDJ7",
     "producto":"SENSOR RETROCESO FORD FESTIVA TURPIAL, K",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":3.99,
     "pvp":10
   },
   {
     "codigo":"3922022010MORUC",
     "producto":"SENSOR TEMPERATURA HY GETZ 1.3, ACC TODO",
-    "existencia":6.0,
+    "Existencia":6.0,
     "costo":3.34,
     "pvp":6
   },
   {
     "codigo":"3923026600MOB",
     "producto":"SENSOR TEMPERATURA HYUNDAI GETZ 1.6, ELA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.57,
     "pvp":15
   },
   {
     "codigo":"3922038030FIVES",
     "producto":"SENSOR TEMPERATURA TUCSON\/ELANTR\/SPOR2.0",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":5.15,
     "pvp":10
   },
   {
     "codigo":"3517022600SALJO",
     "producto":"SENSOR TPS ELANTRA ** NUEVO **",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":6.16,
     "pvp":15
   },
   {
     "codigo":"60549359MHW",
     "producto":"SENSOR TPS HYUNDAI ACCENT 1.3 1.5 1.6 \/",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":3.22,
     "pvp":10
   },
   {
     "codigo":"3517022010EDJ7",
     "producto":"SENSOR TPS HYUNDAI GETZ, ELANTRA, SAIPA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":8.69,
     "pvp":15
   },
   {
     "codigo":"3517037100FIVES",
     "producto":"SENSOR TPS SANTA FE 2.7\/  TIBURON 2.7\/ S",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.65,
     "pvp":25
   },
   {
     "codigo":"3517022600HYUND",
     "producto":"SENSOR TPS TUCSON,SPORTAGE,ELANT 2.0",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":4.06,
     "pvp":7
   },
   {
     "codigo":"964204A600REMED",
     "producto":"SENSOR VELOCIDAD HY GETZ, ACCENT, ELAN",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":13.09,
     "pvp":23
   },
   {
     "codigo":"964204A000EDJ7",
     "producto":"SENSOR VELOCIDAD HYUNDAI GETZ, ACCENT, E",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":13.96,
     "pvp":24
   },
   {
     "codigo":"215222X000SEO",
     "producto":"SET CUELLOS CIGUENAL KIA RIO 1.5",
-    "existencia":5.0,
+    "Existencia":5.0,
     "costo":6.5,
     "pvp":15
   },
   {
     "codigo":"4339428002NPC",
     "producto":"SINCRONIZADOR PARA HYUNDAI ACCENT 3RA Y",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":3.0,
     "pvp":6
   },
   {
     "codigo":"243563E000MHW",
     "producto":"SOLENOIDE ACTUADOR OCV\/VVTI (DER SANTA F",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":16.96,
     "pvp":40
   },
   {
     "codigo":"2435523800MHW",
     "producto":"SOLENOIDE ACTUADOR OCV\/VVTI I TUCSON,ELA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":20.36,
     "pvp":40
   },
   {
     "codigo":"243553E000MHW",
     "producto":"SOLENOIDE ACTUADOR OCV\/VVTI IZQ SANTA FE",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":16.96,
     "pvp":40
   },
   {
     "codigo":"OK30A34390AMASA",
     "producto":"SOPORTE AMORTIGUADOR DEL. RIO 1.3 99-03",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":9.22,
     "pvp":20
   },
   {
     "codigo":"218302D050KAP",
     "producto":"SOPORTE DE CAJA A\/T HYUNDAI ELANTRA XD (",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":20.42,
     "pvp":35
   },
   {
     "codigo":"218302E100AME",
     "producto":"SOPORTE DE CAJA A\/T HYUNDAI TUCSON 4*2",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":18.75,
     "pvp":40
   },
   {
     "codigo":"218301C370KAP",
     "producto":"SOPORTE DE CAJA A\/T IZQ. HYUNDAI GETZ (E",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":31.73,
     "pvp":54
   },
   {
     "codigo":"2183007100WINS",
     "producto":"SOPORTE DE CAJA KIA PICANTO A\/T-M\/T IZQ.",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":11.63,
     "pvp":20
   },
   {
     "codigo":"2184022300KAP",
     "producto":"SOPORTE DE MOTOR DEL. HYUNDAI ACCENT (E)",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":10.2,
     "pvp":25
   },
   {
     "codigo":"219102E002KAP",
     "producto":"SOPORTE DE MOTOR DEL. HYUNDAI TUSCON,SPO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":13.79,
     "pvp":30
   },
   {
     "codigo":"219101G100KAP",
     "producto":"SOPORTE DE MOTOR DEL. HYUNDAI VERNA,",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":16.85,
     "pvp":29
   },
   {
     "codigo":"2181022040KAP",
     "producto":"SOPORTE DE MOTOR DER. HYUNDAI ACCENT",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":18.58,
     "pvp":32
   },
   {
     "codigo":"21810FD060KAP",
     "producto":"SOPORTE DE MOTOR DER. KIA RIO, STYLUS (E",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":30.37,
     "pvp":52
   },
   {
     "codigo":"218114A200AME",
     "producto":"SOPORTE DE MOTOR DER\/IZQ. HYUNDAI STAREX",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":19.84,
     "pvp":40
   },
   {
     "codigo":"2185022300AMER",
     "producto":"SOPORTE DE MOTOR TRS. HYUNDAI ACCENT (95",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":12.19,
     "pvp":25
   },
   {
     "codigo":"219302E300AME",
     "producto":"SOPORTE DE MOTOR TRS. HYUNDAI TUCSON",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":9.4,
     "pvp":30
   },
   {
     "codigo":"2185024010UP",
     "producto":"SOPORTE DE MOTOR TRS. M\/T HYUNDAI EXCEL",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":10.03,
     "pvp":25
   },
   {
     "codigo":"2028MORUCH",
     "producto":"TAPA ACEITE MOTOR HYUNDAI GETZ, ELANTRA,",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":3.68,
     "pvp":7
   },
   {
     "codigo":"OK30A1335ZBPRO",
     "producto":"TAPA BOMBA GASOLINA  KIA RIO STYLUS",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":11.38,
     "pvp":20
   },
   {
     "codigo":"3018010100SEONG",
     "producto":"TAPA BOMBA GASOLINA ELANTRA SEONG",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":13.12,
     "pvp":23
   },
   {
     "codigo":"311101C000SESE",
     "producto":"TAPA BOMBA GASOLINA GETZ 1.6 SEONG",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":11.85,
     "pvp":21
   },
   {
     "codigo":"SQ5815USA",
     "producto":"TAPA DE ACEITE HYUNDAI TODOS",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":1.9,
     "pvp":5
   },
   {
     "codigo":"2533025000MHW",
     "producto":"TAPA RADIADOR HYUNDAI ACCENT, GETZ, ELAN",
-    "existencia":8.0,
+    "Existencia":8.0,
     "costo":1.93,
     "pvp":5
   },
   {
     "codigo":"2544126100MHW",
     "producto":"TAPA RESERVORIO HYUNDAI GETZ \/ SANTA FE",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":1.77,
     "pvp":10
   },
   {
     "codigo":"2461022600MHW",
     "producto":"TAQUETE HYUNDAI ACCENT 1.5-1.3\/BRISA\/GET",
-    "existencia":26.0,
+    "Existencia":26.0,
     "costo":2.88,
     "pvp":6
   },
   {
     "codigo":"2461022010MOB",
     "producto":"TAQUETES ACCENT 1.3 1.5 GETZ 1.3",
-    "existencia":8.0,
+    "Existencia":8.0,
     "costo":2.9,
     "pvp":6
   },
   {
     "codigo":"2223137110MOB",
     "producto":"TAQUETES DE MOTOR (PAQ. 8)  GETZ\/ELANTRA",
-    "existencia":0.5,
+    "Existencia":0.5,
     "costo":47.78,
     "pvp":82
   },
   {
     "codigo":"2223137110CMP",
     "producto":"TAQUETES HIDRAULICO GETZ, ELAN 1.6 (16U)",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":44.84,
     "pvp":77
   },
   {
     "codigo":"2441026800ANC",
     "producto":"TENSOR CADENA LEVA KIA RIO CVVT 1.6, HYU",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":19.21,
     "pvp":33
   },
   {
     "codigo":"2441023400FANZE",
     "producto":"TENSOR CORREA D TIEMPO TUCSN ELA 2.0 1.8",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":13.56,
     "pvp":30
   },
   {
     "codigo":"244103E500HYUND",
     "producto":"TENSOR CORREA TIEMPO SANTA FE GOLD OP2.7",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":15.98,
     "pvp":35
   },
   {
     "codigo":"252813C100HDE",
     "producto":"TENSOR CORREA UNICA HYUNDAI SONATA AZERA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":25.94,
     "pvp":45
   },
   {
     "codigo":"2528137120HDE",
     "producto":"TENSOR CORREA UNICA SANTA FE 2.7 V6 \/ SP",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":25.87,
     "pvp":44
   },
   {
     "codigo":"2441023400DAE",
     "producto":"TENSOR DE CORREA DE TIEMPO HYUNDAI",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":16.5,
     "pvp":30
   },
   {
     "codigo":"2441038001APK",
     "producto":"TENSOR DE CORREA DE TIEMPO HYUNDAI - H1",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":36.27,
     "pvp":62
   },
   {
     "codigo":"2441026000AME",
     "producto":"TENSOR DE CORREA DE TIEMPO HYUNDAI ACCEN",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":9.52,
     "pvp":17
   },
   {
     "codigo":"2441037100APK",
     "producto":"TENSOR DE CORREA DE TIEMPO KIA SPORTAGE",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":34.85,
     "pvp":60
   },
   {
     "codigo":"OK97312700AMOB",
     "producto":"TENSOR DE CORREA TIEMPO KIA SPORTAGE 2.0",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":13.39,
     "pvp":45
   },
   {
     "codigo":"568201E900MHW",
     "producto":"TERMINAL D DIRECCION ACCE, RIO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.64,
     "pvp":15
   },
   {
     "codigo":"568203K010EEP",
     "producto":"TERMINAL DE DIRECCION EXT. DER.SONATA3.3",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.29,
     "pvp":20
   },
   {
     "codigo":"568203K000EEP",
     "producto":"TERMINAL DE DIRECCION EXT. IZQ.SONATA3.3",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.29,
     "pvp":20
   },
   {
     "codigo":"568202E000AME",
     "producto":"TERMINAL DE DIRECCION EXT. IZQ.TUCSON,SP",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.69,
     "pvp":20
   },
   {
     "codigo":"568202E900AME",
     "producto":"TERMINAL DE DIRECCION EXT.DER.TUCSON,SPO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.69,
     "pvp":20
   },
   {
     "codigo":"568202E000MHW",
     "producto":"TERMINAL DE DIRECCIÓN LEFT\/IZQ TUCSN SPO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.45,
     "pvp":20
   },
   {
     "codigo":"568201E000MHW",
     "producto":"TERMINAL DE DIRECCIÓN LEFT\/IZQU HY ACCE,",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.64,
     "pvp":15
   },
   {
     "codigo":"568202E900MHW",
     "producto":"TERMINAL DE DIRECCIÓN RIGHT\/DER TUCS,SPO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":8.45,
     "pvp":20
   },
   {
     "codigo":"KKY013228TRM",
     "producto":"TERMINAL DIRECCION KIA RIO\/PICANTO",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":7.11,
     "pvp":13
   },
   {
     "codigo":"548302D000AME",
     "producto":"TERMINAL DOBLE (LAPIZ) DEL. HYUNDAI ELAN",
-    "existencia":6.0,
+    "Existencia":6.0,
     "costo":4.95,
     "pvp":9
   },
   {
     "codigo":"5483026100EEP",
     "producto":"TERMINAL DOBLE (LAPIZ) DEL. IZQ. HYUNDAI",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":5.2,
     "pvp":13
   },
   {
     "codigo":"548302F000UP",
     "producto":"TERMINAL DOBLE (LAPIZ) DEL. IZQ. KIA CER",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.61,
     "pvp":15
   },
   {
     "codigo":"H00199324IHVSV",
     "producto":"TERMINAL EXTERNO DE DIRECCION  KIA CAREN",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.09,
     "pvp":15
   },
   {
     "codigo":"568200U590MTRK1",
     "producto":"TERMINAL EXTERNO DERECHO ACCENT\/RIO 2011",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":9.09,
     "pvp":16
   },
   {
     "codigo":"5382022000TRM",
     "producto":"TERMINAL HYUNDAI ELANTRA XD 00\/12",
-    "existencia":6.0,
+    "Existencia":6.0,
     "costo":8.52,
     "pvp":15
   },
   {
     "codigo":"568202B000TMM",
     "producto":"TERMINAL HYUNDAI SANTA FE  IZQ. (UNIDAD)",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":11.79,
     "pvp":21
   },
   {
     "codigo":"568202B900TMM",
     "producto":"TERMINAL HYUNDAI SANTA FE 07-10 DER (UNI",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":13.36,
     "pvp":23
   },
   {
     "codigo":"TVAES800055",
     "producto":"TERMINAL HYUNDAI SANTA FE 07-12 DER",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":15.29,
     "pvp":26
   },
   {
     "codigo":"TVAES800035",
     "producto":"TERMINAL HYUNDAI SANTA FE 07-12 IZQ",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":19.88,
     "pvp":34
   },
   {
     "codigo":"565400U500MTRJ0",
     "producto":"TERMINAL INTERNO ACCENT\/RIO 2011-2017",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.05,
     "pvp":13
   },
   {
     "codigo":"OK72A32240SEO",
     "producto":"TERMINAL KIA PREGIO 3.0",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":12.54,
     "pvp":22
   },
   {
     "codigo":"TVAES800042",
     "producto":"TERMINAL KIA SORENTO DER",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":13.79,
     "pvp":24
   },
   {
     "codigo":"TVAES800039",
     "producto":"TERMINAL KIA SORENTO IZQ",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":13.81,
     "pvp":24
   },
   {
     "codigo":"5682007000TRM",
     "producto":"TERMINAL KIO RIO STILUS\/PICANTO",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":7.01,
     "pvp":13
   },
   {
     "codigo":"2550037200NEUTR",
     "producto":"TERMOSTATO OPTIMA 2.5-SONATA 2.7-TIBURON",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":7.93,
     "pvp":15
   },
   {
     "codigo":"2550002500APK",
     "producto":"TERMOSTATO PARA MOTOR HYUNDAI ATOS (E)",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":7.0,
     "pvp":15
   },
   {
     "codigo":"OK2C0 1517A",
     "producto":"TERMOSTATO RIO STYLUS",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.19,
     "pvp":15
   },
   {
     "codigo":"6920227DAVEY",
     "producto":"TIRRAS NEGRO",
-    "existencia":17.9,
+    "Existencia":17.9,
     "costo":0.09,
     "pvp":1
   },
   {
     "codigo":"R2563123501RAF",
     "producto":"TOMA AGUA HYUNDAI TUCSON, ELANTRA 2.0, K",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":11.36,
     "pvp":40
   },
   {
     "codigo":"2560002566SEONG",
     "producto":"TOMA AGUA LARGA PICANTO CON TERMOST",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":21.63,
     "pvp":37
   },
   {
     "codigo":"2561126020HYUND",
     "producto":"TOMA DE AGUA DE ACCENT,GETZ BRISA 1.6",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":5.24,
     "pvp":9
   },
   {
     "codigo":"548301C000HYU",
     "producto":"TORNILLO ESTABILIZADOR BIELETA GETZ LH",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.9,
     "pvp":13
   },
   {
     "codigo":"MZ514KFL",
     "producto":"TRICETA FESTIVA 19X28",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.7,
     "pvp":15
   },
   {
     "codigo":"MI003TVA",
     "producto":"TRIPOIDE HYUNDAI ELANTRA 1.8 AT 91\/97 25",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":31.97,
     "pvp":55
   },
   {
     "codigo":"2546026000MHW",
     "producto":"TUBO DE AGUA CALEFACCION HY GETZ \/ELANTR",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":5.16,
     "pvp":25
   },
   {
     "codigo":"OK30E12111HYUND",
     "producto":"VALVULA DE ADMISION SET\/8 HY KIA RIO 1.5",
-    "existencia":8.0,
+    "Existencia":8.0,
     "costo":2.29,
     "pvp":4
   },
   {
     "codigo":"OK30E12121HYUND",
     "producto":"VALVULA DE ESCAPE (SET\/8)",
-    "existencia":7.0,
+    "Existencia":7.0,
     "costo":2.29,
     "pvp":4
   },
   {
     "codigo":"2221222011MHW",
     "producto":"VALVULA DE ESCAPE DE ACCENT",
-    "existencia":8.0,
+    "Existencia":8.0,
     "costo":2.44,
     "pvp":5
   },
   {
     "codigo":"2221226000MOB",
     "producto":"VALVULA DE ESCAPE GETZ\/ELANTRA 1.6",
-    "existencia":13.0,
+    "Existencia":13.0,
     "costo":1.91,
     "pvp":4
   },
   {
     "codigo":"9386039000HYUND",
     "producto":"VALVULA DE RETROCESO ACCENT",
-    "existencia":5.0,
+    "Existencia":5.0,
     "costo":4.51,
     "pvp":10
   },
   {
     "codigo":"3923026700MHW",
     "producto":"VALVULA DE TEMPERATURA HY TUCSON,ELAN2.0",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":2.83,
     "pvp":10
   },
   {
     "codigo":"3922022010MHW",
     "producto":"VALVULA DE TEMPERATURA HYUNDAI ACCENT",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":2.51,
     "pvp":5
   },
   {
     "codigo":"2221223600HLEV",
     "producto":"VALVULA ES TUCSON ELANTRA 2.0",
-    "existencia":11.0,
+    "Existencia":11.0,
     "costo":2.25,
     "pvp":5
   },
   {
     "codigo":"2221226600HK",
     "producto":"VALVULA ESCAPE GETZ\/ELANTRA 1.6 PAQ8",
-    "existencia":12.0,
+    "Existencia":12.0,
     "costo":1.71,
     "pvp":4
   },
   {
     "codigo":"2221222003HYUND",
     "producto":"VALVULA ESCAPE HYUNDAI GETZ 1.3, ACCENT",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":2.59,
     "pvp":5
   },
   {
     "codigo":"9381032001MAS",
     "producto":"VALVULA FRENO TUCSON SANTA FE SPORTAGE 4",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.31,
     "pvp":15
   },
   {
     "codigo":"3515022600MOBIS",
     "producto":"VALVULA IAC GETZ\/ELANTRA ** NUEVO **",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":14.22,
     "pvp":30
   },
   {
     "codigo":"2674021314HYUND",
     "producto":"VALVULA PCV ACCENT,GEZT,ELANT,PICANT",
-    "existencia":10.0,
+    "Existencia":10.0,
     "costo":2.02,
     "pvp":4
   },
   {
     "codigo":"2674021314FANZ",
     "producto":"VALVULA PCV HYUN ELANTRA ACCENT GETZ TUC",
-    "existencia":3.0,
+    "Existencia":3.0,
     "costo":3.89,
     "pvp":7
   },
   {
     "codigo":"OK30E13890GPC",
     "producto":"VALVULA PCV KIA RIO STYLUS",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.41,
     "pvp":5
   },
   {
     "codigo":"9475037100MASAN",
     "producto":"VALVULA PRESION ACEITE SANTA FE ATOZ PIC",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":2.63,
     "pvp":10
   },
   {
     "codigo":"9386049600MAS",
     "producto":"VALVULA RETRO SPORTAGE TUCSON RIO SANTA",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":5.05,
     "pvp":15
   },
   {
     "codigo":"3922002500MHW",
     "producto":"VALVULA SENSOR DE TEMPERATURA HYUNDAI AT",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":4.04,
     "pvp":8
   },
   {
     "codigo":"9465032520CAP",
     "producto":"VALVULA TEMPERATURA ACCENT RELOJ",
-    "existencia":2.0,
+    "Existencia":2.0,
     "costo":1.35,
     "pvp":5
   },
   {
     "codigo":"3923026600MAS",
     "producto":"VALVULA TEMPERATURA ELANTRA GETZ 1.6 (3",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":6.27,
     "pvp":15
   },
   {
     "codigo":"3922038020MHW",
     "producto":"VALVULA TEMPERATURA HYUNDAI SANTA FE 200",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":2.43,
     "pvp":10
   },
   {
     "codigo":"3922038030GPI",
     "producto":"VALVULA TEMPERATURA TUCSON 2.0",
-    "existencia":4.0,
+    "Existencia":4.0,
     "costo":2.43,
     "pvp":10
   },
   {
     "codigo":"2221123600HLEV",
     "producto":"VALVULA TUCSON SPORTAGE ELANTRA ADMISION",
-    "existencia":1.0,
+    "Existencia":1.0,
     "costo":1.92,
     "pvp":5
   }
