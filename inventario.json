@@ -1,0 +1,16 @@
+[
+  {
+    "codigo": "12345",
+    "producto": "Filtro de aceite",
+    "existencia": 10,
+    "costo": 5.00,
+    "pvp": 10.00
+  },
+  {
+    "codigo": "67890",
+    "producto": "Bujía estándar",
+    "existencia": 0,
+    "costo": 1.50,
+    "pvp": 3.00
+  }
+]

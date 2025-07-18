@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inventario de Repuestos</title>
+    <link rel="manifest" href="manifest.json">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        input { margin-bottom: 10px; padding: 5px; width: 100%; }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { border: 1px solid #ccc; padding: 5px; text-align: left; }
+        .agotado { background-color: #f8d7da; }
+        .bajo-stock { background-color: #fff3cd; }
+    </style>
+</head>
+<body>
+    <h1>Inventario de Repuestos</h1>
+    <input type="text" id="buscar" placeholder="Buscar código o producto...">
+    <table>
+        <thead>
+            <tr>
+                <th onclick="ordenar('codigo')">Código</th>
+                <th onclick="ordenar('producto')">Producto</th>
+                <th onclick="ordenar('existencia')">Existencia</th>
+                <th onclick="ordenar('costo')">Costo ($)</th>
+                <th onclick="ordenar('pvp')">PVP ($)</th>
+            </tr>
+        </thead>
+        <tbody id="tablaInventario"></tbody>
+    </table>
+
+    <script>
+        let inventario = [];
+        let ordenActual = { campo: '', ascendente: true };
+
+        fetch('inventario.json')
+            .then(response => response.json())
+            .then(data => {
+                inventario = data;
+                mostrarInventario(data);
+            });
+
+        function mostrarInventario(lista) {
+            const tbody = document.getElementById('tablaInventario');
+            tbody.innerHTML = '';
+            lista.forEach(item => {
+                let clase = '';
+                if (item.existencia == 0) clase = 'agotado';
+                else if (item.existencia > 0 && item.existencia < 5) clase = 'bajo-stock';
+
+                tbody.innerHTML += `<tr class="${clase}">
+                    <td>${item.codigo}</td>
+                    <td>${item.producto}</td>
+                    <td>${item.existencia}</td>
+                    <td>${item.costo}</td>
+                    <td>${item.pvp}</td>
+                </tr>`;
+            });
+        }
+
+        document.getElementById('buscar').addEventListener('input', function() {
+            const filtro = this.value.toLowerCase();
+            const filtrados = inventario.filter(item =>
+                item.codigo.toLowerCase().includes(filtro) ||
+                item.producto.toLowerCase().includes(filtro));
+            mostrarInventario(filtrados);
+        });
+
+        function ordenar(campo) {
+            if (ordenActual.campo === campo) ordenActual.ascendente = !ordenActual.ascendente;
+            else ordenActual = { campo: campo, ascendente: true };
+
+            inventario.sort((a, b) => {
+                if (a[campo] < b[campo]) return ordenActual.ascendente ? -1 : 1;
+                if (a[campo] > b[campo]) return ordenActual.ascendente ? 1 : -1;
+                return 0;
+            });
+            mostrarInventario(inventario);
+        }
+    </script>
+
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('service-worker.js');
+        }
+    </script>
+</body>
+</html>
