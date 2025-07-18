@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="theme-color" content="#4F81BD">
+    <meta name="theme-color" content="#161A30">
     <link rel="manifest" href="manifest.json">
     <title>Inventario de Repuestos</title>
     <style>
@@ -13,45 +13,40 @@
         table {
             width: 100%;
             border-collapse: collapse;
-            font-size: 14px;
-            table-layout: fixed;
+            font-size: 13px;
+            table-layout: auto;
+        }
+
+        thead th, td {
+            border: 1px solid #d9d9d9;
+            padding: 6px;
+            white-space: nowrap;
         }
 
         thead th {
-            background-color: #4F81BD;
+            background-color: #161A30;
             color: white;
             position: sticky;
             top: 0;
             z-index: 1;
-            border: 1px solid #d9d9d9;
-            padding: 8px;
         }
 
-        td {
-            border: 1px solid #d9d9d9;
-            padding: 8px;
-            text-align: left;
-            word-wrap: break-word;
+        td.numeric {
+            text-align: right;
         }
 
         tbody tr:nth-child(even) {
             background-color: #f2f2f2;
         }
 
+        tbody tr:nth-child(odd) {
+            background-color: #ffffff;
+        }
+
         tbody tr:hover {
-            background-color: #ddeeff;
-        }
-
-        .agotado {
-            background-color: #f8d7da !important;
-        }
-
-        .bajo-stock {
-            background-color: #fff3cd !important;
-        }
-
-        .normal {
-            background-color: #d4edda !important;
+            background-color: #7C0909;
+            color: white;
+            cursor: pointer;
         }
     </style>
 </head>
@@ -88,38 +83,10 @@
         const tabla = document.getElementById('tabla-inventario');
         tabla.innerHTML = '';
         lista.forEach(item => {
-            let clase = '';
-            if (item.Existencia == 0) clase = 'agotado';
-            else if (item.Existencia > 0 && item.Existencia < 5) clase = 'bajo-stock';
-            else clase = 'normal';
-
             tabla.innerHTML += `
-                <tr class="${clase}">
-                    <td>${item.Código}</td>
-                    <td>${item.Producto}</td>
-                    <td>${item.Existencia}</td>
-                    <td>${item["Costo ($)"]}</td>
-                    <td>${item["PVP ($)"]}</td>
-                </tr>
-            `;
-        });
-    }
-
-    function filtrarInventario() {
-        const texto = document.getElementById('buscador').value.toLowerCase();
-        const filtrado = inventario.filter(item => 
-            item.Código.toLowerCase().includes(texto) ||
-            item.Producto.toLowerCase().includes(texto)
-        );
-        mostrarInventario(filtrado);
-    }
-</script>
-
-<script>
-    if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('service-worker.js');
-    }
-</script>
-
-</body>
-</html>
+                <tr>
+                    <td>${item["Código"]}</td>
+                    <td>${item["Producto"]}</td>
+                    <td class="numeric">${item["Existencia"]}</td>
+                    <td class="numeric">${item["Costo ($)"].toFixed(2).replace('.', ',')}</td>
+                    <td class="numeric">${item["PVP (]()

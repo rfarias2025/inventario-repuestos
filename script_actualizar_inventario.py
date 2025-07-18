@@ -1,15 +1,23 @@
 import pandas as pd
+import json
 
+# Lee el archivo Excel (debe estar en la misma carpeta)
 df = pd.read_excel('inventario.xlsx')
 
-df.rename(columns={
-    'Código': 'codigo',
-    'Producto': 'producto',
-    'Exist.': 'existencia',
-    'Costo ($)': 'costo',
-    'PVP ($)': 'pvp'
-}, inplace=True)
+# Renombra las columnas para que coincidan con el index.html
+df_renombrado = df.rename(columns={
+    'codigo': 'Código',
+    'producto': 'Producto',
+    'Existencia': 'Existencia',
+    'costo': 'Costo ($)',
+    'pvp': 'PVP ($)'
+})
 
-df.to_json('inventario.json', orient='records', force_ascii=False, indent=2)
+# Convierte a lista de diccionarios
+datos = df_renombrado.to_dict(orient='records')
 
-print('Archivo inventario.json generado correctamente.')
+# Guarda en JSON con indentación bonita
+with open('inventario.json', 'w', encoding='utf-8') as f:
+    json.dump(datos, f, ensure_ascii=False, indent=4)
+
+print('✅ inventario.json generado correctamente.')
