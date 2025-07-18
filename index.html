@@ -14,17 +14,24 @@
             width: 100%;
             border-collapse: collapse;
             font-size: 14px;
+            table-layout: fixed;
         }
 
-        thead {
+        thead th {
             background-color: #4F81BD;
             color: white;
+            position: sticky;
+            top: 0;
+            z-index: 1;
+            border: 1px solid #d9d9d9;
+            padding: 8px;
         }
 
-        th, td {
+        td {
             border: 1px solid #d9d9d9;
             padding: 8px;
             text-align: left;
+            word-wrap: break-word;
         }
 
         tbody tr:nth-child(even) {
@@ -52,7 +59,7 @@
 
 <h2>Inventario de Repuestos</h2>
 
-<input type="text" id="buscador" oninput="filtrarInventario()" placeholder="Buscar por código o producto">
+<input type="text" id="buscador" oninput="filtrarInventario()" placeholder="Buscar por Código o Producto">
 
 <table>
     <thead>
@@ -82,17 +89,17 @@
         tabla.innerHTML = '';
         lista.forEach(item => {
             let clase = '';
-            if (item.existencia == 0) clase = 'agotado';
-            else if (item.existencia > 0 && item.existencia < 5) clase = 'bajo-stock';
+            if (item.Existencia == 0) clase = 'agotado';
+            else if (item.Existencia > 0 && item.Existencia < 5) clase = 'bajo-stock';
             else clase = 'normal';
 
             tabla.innerHTML += `
                 <tr class="${clase}">
-                    <td>${item.codigo}</td>
-                    <td>${item.producto}</td>
-                    <td>${item.existencia}</td>
-                    <td>${item.costo}</td>
-                    <td>${item.pvp}</td>
+                    <td>${item.Código}</td>
+                    <td>${item.Producto}</td>
+                    <td>${item.Existencia}</td>
+                    <td>${item["Costo ($)"]}</td>
+                    <td>${item["PVP ($)"]}</td>
                 </tr>
             `;
         });
@@ -101,8 +108,8 @@
     function filtrarInventario() {
         const texto = document.getElementById('buscador').value.toLowerCase();
         const filtrado = inventario.filter(item => 
-            item.codigo.toLowerCase().includes(texto) ||
-            item.producto.toLowerCase().includes(texto)
+            item.Código.toLowerCase().includes(texto) ||
+            item.Producto.toLowerCase().includes(texto)
         );
         mostrarInventario(filtrado);
     }
