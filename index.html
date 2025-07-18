@@ -6,13 +6,47 @@
     <title>Inventario de Repuestos</title>
     <link rel="manifest" href="manifest.json">
     <style>
-        body { font-family: Arial, sans-serif; margin: 20px; }
-        input { margin-bottom: 10px; padding: 5px; width: 100%; }
-        table { width: 100%; border-collapse: collapse; }
-        th, td { border: 1px solid #ccc; padding: 5px; text-align: left; }
-        .agotado { background-color: #f8d7da; }
-        .bajo-stock { background-color: #fff3cd; }
-    </style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    input { margin-bottom: 10px; padding: 5px; width: 100%; }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 14px;
+    }
+
+    thead {
+        background-color: #4F81BD;
+        color: white;
+    }
+
+    th, td {
+        border: 1px solid #d9d9d9;
+        padding: 8px;
+        text-align: left;
+    }
+
+    tbody tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    tbody tr:hover {
+        background-color: #ddeeff;
+    }
+
+    .agotado {
+        background-color: #f8d7da !important;
+    }
+
+    .bajo-stock {
+        background-color: #fff3cd !important;
+    }
+
+    .normal {
+        background-color: #d4edda !important;
+    }
+</style>
+
 </head>
 <body>
     <h1>Inventario de Repuestos</h1>
