@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inventario de Repuestos</title>
     <meta name="theme-color" content="#161A30">
     <link rel="manifest" href="manifest.json">
-    <title>Inventario de Repuestos</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 20px; }
         input { margin-bottom: 10px; padding: 5px; width: 100%; }
@@ -14,7 +14,6 @@
             width: 100%;
             border-collapse: collapse;
             font-size: 13px;
-            table-layout: auto;
         }
 
         thead th, td {
@@ -35,19 +34,9 @@
             text-align: right;
         }
 
-        tbody tr:nth-child(even) {
-            background-color: #f2f2f2;
-        }
-
-        tbody tr:nth-child(odd) {
-            background-color: #ffffff;
-        }
-
-        tbody tr:hover {
-            background-color: #7C0909;
-            color: white;
-            cursor: pointer;
-        }
+        tbody tr:nth-child(even) { background-color: #f2f2f2; }
+        tbody tr:nth-child(odd) { background-color: #fff; }
+        tbody tr:hover { background-color: #7C0909; color: white; }
     </style>
 </head>
 <body>
@@ -73,13 +62,18 @@
     let inventario = [];
 
     fetch('inventario.json')
-        .then(response => response.json())
+        .then(response => {
+            if (!response.ok) throw new Error('Error al cargar inventario.json');
+            return response.json();
+        })
         .then(data => {
+            console.log('✅ Inventario cargado:', data);
             inventario = data;
             mostrarInventario(inventario);
         })
         .catch(error => {
-            console.error('❗ Error al cargar inventario.json:', error);
+            console.error('❗ Error al cargar inventario:', error);
+            document.getElementById('tabla-inventario').innerHTML = '<tr><td colspan="5">Error al cargar inventario</td></tr>';
         });
 
     function mostrarInventario(lista) {
@@ -91,8 +85,8 @@
                     <td>${item["Código"]}</td>
                     <td>${item["Producto"]}</td>
                     <td class="numeric">${item["Existencia"]}</td>
-                    <td class="numeric">${parseFloat(item["Costo ($)"]).toFixed(2).replace('.', ',')}</td>
-                    <td class="numeric">${parseFloat(item["PVP ($)"]).toFixed(2).replace('.', ',')}</td>
+                    <td class="numeric">${parseFloat(item["Costo ($)"]).toFixed(2)}</td>
+                    <td class="numeric">${parseFloat(item["PVP ($)"]).toFixed(2)}</td>
                 </tr>
             `;
         });
