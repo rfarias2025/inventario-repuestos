@@ -106,14 +106,14 @@
     },
     {
         "Código": "333502KAPARS",
-        "Producto": "AMORTIGUADOR KIA RIO (00-02) DEL. DER. (",
+        "Producto": "AMORTIGUADOR KIA RIO (00-02) DEL. DER.",
         "Existencia": 1.0,
         "Costo ($)": 31.73,
         "PVP ($)": 54.0
     },
     {
         "Código": "333503KAPARS",
-        "Producto": "AMORTIGUADOR KIA RIO (00-02) DEL. IZQ. (",
+        "Producto": "AMORTIGUADOR KIA RIO (00-02) DEL. IZQ.",
         "Existencia": 1.0,
         "Costo ($)": 31.73,
         "PVP ($)": 54.0
@@ -634,28 +634,28 @@
         "Producto": "BENDIX HYUNDAI ACCENT, EXEL, PICANTO",
         "Existencia": 2.0,
         "Costo ($)": 7.21,
-        "PVP ($)": 13.0
+        "PVP ($)": 15.0
     },
     {
         "Código": "54820FD000GVD",
         "Producto": "BIELETA  DELANTER PARA RIO 1,5 02-11 DER",
         "Existencia": 1.0,
         "Costo ($)": 4.3,
-        "PVP ($)": 13.0
+        "PVP ($)": 15.0
     },
     {
         "Código": "5484007000GVD",
         "Producto": "BIELETA  DELANTERA PICANTO DERECHA",
         "Existencia": 2.0,
         "Costo ($)": 5.92,
-        "PVP ($)": 13.0
+        "PVP ($)": 15.0
     },
     {
         "Código": "5483007000GVD",
         "Producto": "BIELETA  DELANTERA PICANTO IZQ",
-        "Existencia": 2.0,
+        "Existencia": 1.0,
         "Costo ($)": 5.91,
-        "PVP ($)": 13.0
+        "PVP ($)": 15.0
     },
     {
         "Código": "548401G500GVD",
@@ -683,21 +683,21 @@
         "Producto": "BIELETA DEL. DER. HYUNDAI SANTA FE. (UNI",
         "Existencia": 2.0,
         "Costo ($)": 11.02,
-        "PVP ($)": 19.0
+        "PVP ($)": 20.0
     },
     {
         "Código": "548302B200TMM",
         "Producto": "BIELETA DEL. IZQ. HYUNDAI SANTA FE. (UNI",
         "Existencia": 2.0,
         "Costo ($)": 11.02,
-        "PVP ($)": 19.0
+        "PVP ($)": 20.0
     },
     {
         "Código": "54830FD000GVD",
         "Producto": "BIELETA DELANTERA PARA RIO 1,5 02-11 IZQ",
         "Existencia": 3.0,
         "Costo ($)": 6.7,
-        "PVP ($)": 13.0
+        "PVP ($)": 15.0
     },
     {
         "Código": "548302B000CAP",
@@ -718,35 +718,35 @@
         "Producto": "BIELETA HYUNDAI GETZ LH",
         "Existencia": 3.0,
         "Costo ($)": 7.53,
-        "PVP ($)": 13.0
+        "PVP ($)": 15.0
     },
     {
         "Código": "548301C000TRM",
         "Producto": "BIELETA HYUNDAI GETZ RH",
         "Existencia": 3.0,
         "Costo ($)": 7.53,
-        "PVP ($)": 13.0
+        "PVP ($)": 15.0
     },
     {
         "Código": "5484007000CAP",
         "Producto": "BIELETA KIA PICANTO DERECHA",
         "Existencia": 2.0,
         "Costo ($)": 5.9,
-        "PVP ($)": 13.0
+        "PVP ($)": 15.0
     },
     {
         "Código": "5483007000CAP",
         "Producto": "BIELETA KIA PICANTO IZQUIERDA",
         "Existencia": 1.0,
         "Costo ($)": 5.9,
-        "PVP ($)": 13.0
+        "PVP ($)": 15.0
     },
     {
         "Código": "555302E100CAP",
         "Producto": "BIELETA TRASERA TUCSON",
         "Existencia": 4.0,
         "Costo ($)": 6.17,
-        "PVP ($)": 13.0
+        "PVP ($)": 15.0
     },
     {
         "Código": "2730122600MHW",
@@ -781,28 +781,28 @@
         "Producto": "BOBINA DE ENCENDIDOHYUNDAI ACCENT / GETZ",
         "Existencia": 2.0,
         "Costo ($)": 32.99,
-        "PVP ($)": 57.0
+        "PVP ($)": 60.0
     },
     {
         "Código": "2730123700HYUND",
         "Producto": "BOBINA DE ENCENDIDOTUCSON / ELAN/SPORTAG",
         "Existencia": 1.0,
         "Costo ($)": 34.53,
-        "PVP ($)": 59.0
+        "PVP ($)": 60.0
     },
     {
         "Código": "OK30E1810XKAPAR",
         "Producto": "BOBINA DE IGNICION KIA RIO, STYLUS (01-0",
         "Existencia": 1.0,
         "Costo ($)": 31.73,
-        "PVP ($)": 54.0
+        "PVP ($)": 55.0
     },
     {
         "Código": "OK01318100KAPAR",
         "Producto": "BOBINA DE IGNICION SPORTAGE 00-03, SEPHI",
         "Existencia": 1.0,
         "Costo ($)": 16.5,
-        "PVP ($)": 29.0
+        "PVP ($)": 30.0
     },
     {
         "Código": "273013F100MOB",
@@ -837,14 +837,14 @@
         "Producto": "BOMBA AGUA HYUNDAI ATOS, KIA PICANTO",
         "Existencia": 1.0,
         "Costo ($)": 19.38,
-        "PVP ($)": 33.0
+        "PVP ($)": 35.0
     },
     {
         "Código": "2510038450SEONG",
         "Producto": "BOMBA AGUA HYUNDAI H1 07 SEONG",
         "Existencia": 1.0,
         "Costo ($)": 54.49,
-        "PVP ($)": 93.0
+        "PVP ($)": 95.0
     },
     {
         "Código": "2510042541PROMA",
@@ -872,35 +872,35 @@
         "Producto": "BOMBA CLUTCH HY SUP.TUCSON /KIA SPORTAG",
         "Existencia": 1.0,
         "Costo ($)": 22.21,
-        "PVP ($)": 38.0
+        "PVP ($)": 40.0
     },
     {
         "Código": "4161029000TK",
         "Producto": "BOMBA CLUTCH HYUNDAI SUP. ELANTRA 95/00",
         "Existencia": 1.0,
         "Costo ($)": 16.38,
-        "PVP ($)": 28.0
+        "PVP ($)": 30.0
     },
     {
         "Código": "4161022060CAP",
         "Producto": "BOMBA CLUTCH SUPERIOR ACCENT",
         "Existencia": 1.0,
         "Costo ($)": 16.18,
-        "PVP ($)": 28.0
+        "PVP ($)": 30.0
     },
     {
         "Código": "416101C010NVLUK",
         "Producto": "BOMBA CROCHE GETZ 1.3/1.6",
         "Existencia": 1.0,
         "Costo ($)": 21.85,
-        "PVP ($)": 38.0
+        "PVP ($)": 40.0
     },
     {
         "Código": "2131023001AME",
         "Producto": "BOMBA DE ACEITE HYUNDAI ELANTRA XD,",
         "Existencia": 1.0,
         "Costo ($)": 39.69,
-        "PVP ($)": 68.0
+        "PVP ($)": 70.0
     },
     {
         "Código": "2131026650AME",
@@ -914,14 +914,14 @@
         "Producto": "BOMBA DE ACEITE KIA RIO 1.5, STYLUS",
         "Existencia": 1.0,
         "Costo ($)": 39.0,
-        "PVP ($)": 67.0
+        "PVP ($)": 70.0
     },
     {
         "Código": "2510026902HYUND",
         "Producto": "BOMBA DE AGUA GETZ, ELANT, RIO 1.6",
         "Existencia": 1.0,
         "Costo ($)": 13.59,
-        "PVP ($)": 24.0
+        "PVP ($)": 25.0
     },
     {
         "Código": "251003E001MHW",
@@ -963,7 +963,7 @@
         "Producto": "BOMBA DE FRENO KIA RIO/STYLUS",
         "Existencia": 1.0,
         "Costo ($)": 31.04,
-        "PVP ($)": 53.0
+        "PVP ($)": 55.0
     },
     {
         "Código": "0K72A43400GUTEN",
@@ -1103,13 +1103,6 @@
         "Producto": "BUJE DE MESETA DEL. HYUNDAI ACCENT/GETZ/",
         "Existencia": 3.0,
         "Costo ($)": 2.12,
-        "PVP ($)": 10.0
-    },
-    {
-        "Código": "545512D000USA",
-        "Producto": "BUJE DE MESETA DEL. HYUNDAI ELANTRA XD 0",
-        "Existencia": 1.0,
-        "Costo ($)": 4.66,
         "PVP ($)": 10.0
     },
     {
@@ -2809,9 +2802,9 @@
     {
         "Código": "4311928080SABO",
         "Producto": "ESTOPERA COPA CAJA ACCENT,GETZ,ELA",
-        "Existencia": 9.0,
+        "Existencia": 7.0,
         "Costo ($)": 1.23,
-        "PVP ($)": 3.0
+        "PVP ($)": 10.0
     },
     {
         "Código": "4311939080PHG",
@@ -2825,21 +2818,21 @@
         "Producto": "ESTOPERA COPA CAJA TRICETA KIA RIO / ACC",
         "Existencia": 15.0,
         "Costo ($)": 2.35,
-        "PVP ($)": 5.0
+        "PVP ($)": 10.0
     },
     {
         "Código": "431193901SABO",
         "Producto": "ESTOPERA COPA CAJA TUCSON",
         "Existencia": 9.0,
         "Costo ($)": 1.33,
-        "PVP ($)": 3.0
+        "PVP ($)": 10.0
     },
     {
         "Código": "4311939011HYUND",
         "Producto": "ESTOPERA COPA CAJA TUCSON/ELANTR 41X61X9",
         "Existencia": 9.0,
         "Costo ($)": 2.9,
-        "PVP ($)": 5.0
+        "PVP ($)": 10.0
     },
     {
         "Código": "MD377999AME",
@@ -3444,13 +3437,6 @@
         "PVP ($)": 6.0
     },
     {
-        "Código": "MGCM080YBM",
-        "Producto": "GUARDAPOLVO TRIPOIDE L/C KIA PICANTO",
-        "Existencia": 1.0,
-        "Costo ($)": 2.95,
-        "PVP ($)": 6.0
-    },
-    {
         "Código": "MGCM082YBM",
         "Producto": "GUARDAPOLVO TRIPOIDE L/C KIA RIO",
         "Existencia": 1.0,
@@ -3535,18 +3521,11 @@
         "PVP ($)": 39.0
     },
     {
-        "Código": "437942E000ZAAK",
-        "Producto": "GUAYA SELECTORA TUCSON",
-        "Existencia": 1.0,
-        "Costo ($)": 15.14,
-        "PVP ($)": 30.0
-    },
-    {
         "Código": "4379422010MIT",
         "Producto": "GUAYA SELECTORA/HY ACCENT",
         "Existencia": 3.0,
         "Costo ($)": 15.9,
-        "PVP ($)": 28.0
+        "PVP ($)": 30.0
     },
     {
         "Código": "4379407100SM",
@@ -3770,7 +3749,7 @@
         "Producto": "JUEGO DE EMPACADURAS COMPLETO GETZ 1.6",
         "Existencia": 1.0,
         "Costo ($)": 13.42,
-        "PVP ($)": 23.0
+        "PVP ($)": 25.0
     },
     {
         "Código": "2222423500MHW",
@@ -3840,14 +3819,14 @@
         "Producto": "KIT CADENA DE TIEMPO H1 08-09",
         "Existencia": 1.0,
         "Costo ($)": 59.72,
-        "PVP ($)": 102.0
+        "PVP ($)": 105.0
     },
     {
         "Código": "2441038001HYUND",
         "Producto": "KIT CORREA DE TIEMPO H1 2007, 175 DIENT",
         "Existencia": 1.0,
         "Costo ($)": 63.13,
-        "PVP ($)": 108.0
+        "PVP ($)": 110.0
     },
     {
         "Código": "248403E500KTOP",
@@ -3868,7 +3847,7 @@
         "Producto": "KIT CROCHE HYUNDAI GETZ 1.3 -1.6",
         "Existencia": 1.0,
         "Costo ($)": 6.0,
-        "PVP ($)": 11.0
+        "PVP ($)": 12.0
     },
     {
         "Código": "HDK110VAL",
@@ -3936,9 +3915,16 @@
     {
         "Código": "54820FD000EDS",
         "Producto": "LAPIZ BARRA ESTABILIZADOR KIA RIO STY IZ",
-        "Existencia": 1.0,
-        "Costo ($)": 4.53,
+        "Existencia": 3.0,
+        "Costo ($)": 5.12,
         "PVP ($)": 13.0
+    },
+    {
+        "Código": "54830FD000EDS",
+        "Producto": "LAPIZ DE BARRA ESTABILIZADORA KIA RIO",
+        "Existencia": 2.0,
+        "Costo ($)": 5.12,
+        "PVP ($)": 9.0
     },
     {
         "Código": "5553029000DKIG",
@@ -3962,11 +3948,18 @@
         "PVP ($)": 13.0
     },
     {
+        "Código": "548302D000EDS",
+        "Producto": "LAPIZ-BIELETA HYUNDAI ELANTRA 2.0 / 1.6L",
+        "Existencia": 10.0,
+        "Costo ($)": 7.56,
+        "PVP ($)": 13.0
+    },
+    {
         "Código": "548302G000EDS",
         "Producto": "LAPIZ-BIELETA TUCSON 2.0 / KIA SPORT 2.0",
-        "Existencia": 2.0,
-        "Costo ($)": 7.05,
-        "PVP ($)": 13.0
+        "Existencia": 6.0,
+        "Costo ($)": 8.01,
+        "PVP ($)": 14.0
     },
     {
         "Código": "555302E000GVD",
@@ -4515,6 +4508,13 @@
         "PVP ($)": 62.0
     },
     {
+        "Código": "96349976PHEDS",
+        "Producto": "POLEA DE HIERRO PARA TENSOR CORREA UNICA",
+        "Existencia": 2.0,
+        "Costo ($)": 6.57,
+        "PVP ($)": 11.0
+    },
+    {
         "Código": "532030710INA",
         "Producto": "POLEA DE TIEMPO TUCSON,SPORT,ELAN1.8/2.0",
         "Existencia": 1.0,
@@ -4618,6 +4618,20 @@
         "Existencia": 1.0,
         "Costo ($)": 19.0,
         "PVP ($)": 33.0
+    },
+    {
+        "Código": "MZ023EDS",
+        "Producto": "PUNTA DE TRIPOIDE KIA PICANTO",
+        "Existencia": 1.0,
+        "Costo ($)": 21.04,
+        "PVP ($)": 36.0
+    },
+    {
+        "Código": "MZ54EDS",
+        "Producto": "PUNTA DE TRIPOIDE KIA PICANTO",
+        "Existencia": 1.0,
+        "Costo ($)": 21.04,
+        "PVP ($)": 36.0
     },
     {
         "Código": "FD106F2EDS",
@@ -4820,28 +4834,28 @@
         "Producto": "ROTULA HYUNDAI ELANTRA XD 00/12",
         "Existencia": 2.0,
         "Costo ($)": 7.62,
-        "PVP ($)": 13.0
+        "PVP ($)": 15.0
     },
     {
         "Código": "TVAEV800231",
         "Producto": "ROTULA HYUNDAI SANTA FE 08/10",
         "Existencia": 3.0,
         "Costo ($)": 10.9,
-        "PVP ($)": 19.0
+        "PVP ($)": 20.0
     },
     {
         "Código": "577242E000TRM",
         "Producto": "ROTULA HYUNDAI TUCSON",
         "Existencia": 4.0,
         "Costo ($)": 6.4,
-        "PVP ($)": 13.0
+        "PVP ($)": 15.0
     },
     {
         "Código": "5772407000CAP",
         "Producto": "ROTULA KIA PICANTO",
         "Existencia": 1.0,
         "Costo ($)": 6.67,
-        "PVP ($)": 13.0
+        "PVP ($)": 15.0
     },
     {
         "Código": "OK72A32270MOB",
@@ -4855,21 +4869,21 @@
         "Producto": "ROTULA KIA RIO STILUS",
         "Existencia": 2.0,
         "Costo ($)": 6.13,
-        "PVP ($)": 13.0
+        "PVP ($)": 15.0
     },
     {
         "Código": "KDX5032240CAP",
         "Producto": "ROTULA KIA RIO STYLUS",
         "Existencia": 3.0,
         "Costo ($)": 6.96,
-        "PVP ($)": 13.0
+        "PVP ($)": 15.0
     },
     {
         "Código": "577241E000MHW",
         "Producto": "ROTULA R-L/DERECHO-IZQUIERDO HYUNDAI/KIA",
         "Existencia": 2.0,
         "Costo ($)": 6.91,
-        "PVP ($)": 13.0
+        "PVP ($)": 15.0
     },
     {
         "Código": "577242B000CAP",
@@ -4877,6 +4891,13 @@
         "Existencia": 2.0,
         "Costo ($)": 7.84,
         "PVP ($)": 15.0
+    },
+    {
+        "Código": "577551C000EDS",
+        "Producto": "ROTULA TERMINAL INTERNO HYUNDAI GETZ 1.3",
+        "Existencia": 2.0,
+        "Costo ($)": 8.23,
+        "PVP ($)": 14.0
     },
     {
         "Código": "3921037543SEONG",
@@ -5159,24 +5180,10 @@
         "PVP ($)": 6.0
     },
     {
-        "Código": "243563E000MHW",
-        "Producto": "SOLENOIDE ACTUADOR OCV/VVTI (DER SANTA F",
-        "Existencia": 1.0,
-        "Costo ($)": 16.96,
-        "PVP ($)": 40.0
-    },
-    {
         "Código": "2435523800MHW",
         "Producto": "SOLENOIDE ACTUADOR OCV/VVTI I TUCSON,ELA",
         "Existencia": 1.0,
         "Costo ($)": 20.36,
-        "PVP ($)": 40.0
-    },
-    {
-        "Código": "243553E000MHW",
-        "Producto": "SOLENOIDE ACTUADOR OCV/VVTI IZQ SANTA FE",
-        "Existencia": 1.0,
-        "Costo ($)": 16.96,
         "PVP ($)": 40.0
     },
     {
@@ -5360,6 +5367,13 @@
         "Existencia": 1.0,
         "Costo ($)": 13.56,
         "PVP ($)": 30.0
+    },
+    {
+        "Código": "2441002550EDS",
+        "Producto": "TENSOR CORREA DE TIEMPO KIA PICANTO ATOS",
+        "Existencia": 2.0,
+        "Costo ($)": 10.34,
+        "PVP ($)": 18.0
     },
     {
         "Código": "244103E500HYUND",
@@ -5609,7 +5623,7 @@
     {
         "Código": "6920227DAVEY",
         "Producto": "TIRRAS NEGRO",
-        "Existencia": 17.9,
+        "Existencia": 17.0,
         "Costo ($)": 0.09,
         "PVP ($)": 1.0
     },
@@ -5667,14 +5681,14 @@
         "Producto": "VALVULA DE ADMISION SET/8 HY KIA RIO 1.5",
         "Existencia": 8.0,
         "Costo ($)": 2.29,
-        "PVP ($)": 4.0
+        "PVP ($)": 5.0
     },
     {
         "Código": "OK30E12121HYUND",
         "Producto": "VALVULA DE ESCAPE (SET/8)",
         "Existencia": 7.0,
         "Costo ($)": 2.29,
-        "PVP ($)": 4.0
+        "PVP ($)": 5.0
     },
     {
         "Código": "2221222011MHW",
@@ -5688,7 +5702,7 @@
         "Producto": "VALVULA DE ESCAPE GETZ/ELANTRA 1.6",
         "Existencia": 13.0,
         "Costo ($)": 1.91,
-        "PVP ($)": 4.0
+        "PVP ($)": 5.0
     },
     {
         "Código": "9386039000HYUND",
@@ -5723,7 +5737,7 @@
         "Producto": "VALVULA ESCAPE GETZ/ELANTRA 1.6 PAQ8",
         "Existencia": 12.0,
         "Costo ($)": 1.71,
-        "PVP ($)": 4.0
+        "PVP ($)": 5.0
     },
     {
         "Código": "2221222003HYUND",
@@ -5744,14 +5758,14 @@
         "Producto": "VALVULA IAC GETZ/ELANTRA ** NUEVO **",
         "Existencia": 1.0,
         "Costo ($)": 14.22,
-        "PVP ($)": 30.0
+        "PVP ($)": 24.0
     },
     {
         "Código": "2674021314HYUND",
         "Producto": "VALVULA PCV ACCENT,GEZT,ELANT,PICANT",
-        "Existencia": 10.0,
+        "Existencia": 9.0,
         "Costo ($)": 2.02,
-        "PVP ($)": 4.0
+        "PVP ($)": 5.0
     },
     {
         "Código": "2674021314FANZ",
@@ -5791,7 +5805,7 @@
     {
         "Código": "9465032520CAP",
         "Producto": "VALVULA TEMPERATURA ACCENT RELOJ",
-        "Existencia": 2.0,
+        "Existencia": 1.0,
         "Costo ($)": 1.35,
         "PVP ($)": 5.0
     },
